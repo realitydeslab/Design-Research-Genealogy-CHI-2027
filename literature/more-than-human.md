@@ -169,3 +169,9 @@ More-than-human design decenters the human subject in design, drawing on posthum
 ## Summary
 
 More-than-human design emerged from posthumanist theory (Haraway, Barad, Braidotti), was formalized for design by Forlano (2017), Wakkary (2021), and Giaccardi & Redström (2020). It branches into multispecies design, thing-centered design, posthuman HCI, and ecological design. The lineage challenges HCD's anthropocentrism and extends participation to nonhuman entities.
+
+### Cross-References (Added v2)
+- **HCD → More-than-Human** trajectory is the field's primary paradigm shift (see literature/hcd-to-posthuman.md)
+- **Thing Ethnography** is the primary practical method for doing MtHD research (see literature/thing-ethnography.md)
+- **Material Speculation** deploys functional artifacts that develop their own agencies — an exemplar of MtHD in practice (see literature/material-speculation.md)
+- **Ethnography** provides root observational methods that thing ethnography extends to nonhuman perspectives (see literature/ethnography-in-design.md)

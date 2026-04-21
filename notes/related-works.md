@@ -37,6 +37,37 @@ DOI: 10.1145/2470654.2466451
 - **What they did:** Analyzed critical design's theoretical commitments from a humanities perspective.
 - **How we differ:** They analyzed one lineage theoretically. We map relationships *between* lineages systematically.
 
+### 8. Ringfort-Felner, Dörrenbächer, & Hassenzahl (2025) — "The Quality of Speculation – A Scoping Review"
+DOI: 10.1145/3715336.3735794
+- **What they did:** PRISMA-style scoping review of what constitutes quality in speculative design. Developed a descriptive taxonomy of quality criteria. Extended into a CHI '26 workshop (DOI: 10.1145/3772363.3778760) with Elsden, Auger, Pierce, & Wong.
+- **How we differ:** They scoped *one* question within *one* lineage (quality in speculative design). We map *all* lineages and their genealogical relationships. Their work is a sub-branch analysis; ours is the macro-level mapping. However, their scoping review methodology is directly parallel to ours — they are the closest methodological precedent within speculative design specifically.
+- **Important:** Their taxonomy of quality is evidence that the speculative design lineage is actively trying to codify itself — our genealogy contextualizes *why* this codification pressure exists (multiple competing parent traditions, contested legitimacy).
+
+### 9. Zhu, Chao, & Fu (2024) — "How HCI Integrates Speculative Thinking to Envision Futures"
+*Journal of Futures Studies* 28(4), 89–103.
+- **What they did:** Mapped how speculative thinking has been integrated into HCI.
+- **How we differ:** They focus on one intellectual move (speculation → HCI). We map the full genealogical network of all design research methodologies, not just the speculative branch.
+
+### 10. Cardenas Cordova, Kelly, & Rezayan (2025) — "A systematic literature review of the speculative design process"
+DOI: 10.1017/dsj.2025.10030
+- **What they did:** Systematic literature review of the speculative design *process* with a proposed framework.
+- **How we differ:** They reviewed one methodology's process (speculative design). We map the genealogy of *all* design research methodologies and their interrelationships. However, their systematic approach to SCD is a close cousin to our work — we must cite and differentiate clearly.
+
+### 11. Celik & Kaya (2025) — "Reviewing the expansion in Design Futuring Research"
+DOI: 10.1016/j.futures.2025.103615
+- **What they did:** Reviewed the expansion of design futuring research, connecting speculative design and design fiction to futures studies.
+- **How we differ:** They focused on the futuring branch. We map the entire genealogical network, including futuring's connections to PD, RtD, critical design, and more-than-human design.
+
+### 12. Grønbæk, Klokmose, & Hornbæk (2026) — "How Do Future Visions Shape the Field of HCI?"
+DOI: 10.1145/3772318.3791038
+- **What they did:** CHI '26 full paper analyzing how future visions shape HCI as a field.
+- **How we differ:** They examine visions (aspirational futures). We map methodologies (how people *do* design research). Complementary — their work on visions informs why certain methodologies emerge.
+
+### 13. Design Research Observatory (observatory.designresearch.works) — Lindley, Coulton et al. (ongoing)
+URL: https://observatory.designresearch.works/
+- **What they did:** Curated collection of 21 design research concepts with glossary definitions and cross-links showing relationships. Part of the "Design Research Works" project at Lancaster University.
+- **How we differ:** The Observatory is a curated, editorial resource — not a systematic review. It defines concepts and links them, but doesn't trace temporal genealogical relationships, branching points, or the historical contingencies that produced the current landscape. Our PRISMA methodology is reproducible; their curation is expert-driven. We use the Observatory as a scaffolding source and acknowledge it as a key resource, but our systematic approach reveals lineage dynamics the Observatory format cannot capture.
+
 ---
 
 ## Our Unique Contribution

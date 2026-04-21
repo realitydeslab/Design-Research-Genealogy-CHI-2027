@@ -163,6 +163,129 @@ Speculative and Critical Design (SCD) emerged from the Royal College of Art in t
 
 ---
 
+## Theorizing Alternative Designs (2014–2026)
+
+34. **Pierce, J., Sengers, P., Hirsch, T., Jenkins, T., Gaver, W., & DiSalvo, C. (2015). Expanding and Refining Design and Criticality in HCI.** *Proceedings of CHI '15*, 2083–2092.
+    DOI: 10.1145/2702123.2702438
+    - Panel paper expanding design criticality in HCI beyond Dunne & Raby's framing.
+
+35. **Pierce, J. (2021). In Tension with Progression: Grasping the Frictional Tendencies of Speculative, Critical, and other Alternative Designs.** *Proceedings of CHI '21*.
+    DOI: 10.1145/3411764.3445406
+    - **Major theoretical paper.** Develops concepts of *progressional design* (converging toward production) vs. *frictional design* (resisting progression). Introduces *design as prefiguration* and 5 frictional tendencies: diverging, opposing, accelerating, counterfactualizing, analogizing. Provides the first comprehensive theory unifying speculative, critical, and alternative designs under a single framework. Highly cited — spawned significant follow-up work.
+
+36. **Cardenas Cordova, D., Kelly, N., & Rezayan, L. (2025). A systematic literature review of the speculative design process and a proposed framework for speculative design.** *Design Science*.
+    DOI: 10.1017/dsj.2025.10030
+    - Systematic review of the speculative design *process* — complementary to our genealogical mapping. Proposes a framework.
+
+37. **Celik, A., & Kaya, C. (2025). Reviewing the expansion in Design Futuring Research: Emergent concepts around Speculative Design and Design Fiction.** *Futures*.
+    DOI: 10.1016/j.futures.2025.103615
+    - Reviews design futuring's expansion, connecting speculative design and design fiction to futures studies.
+
+38. **Snow, D., Linehan, C., Robinson, S., Gómez Ortega, A., Lindley, J., McDermott, F., Cowan, B.R., & Barry, M. (2025). Six Degrees of Speculation: Towards a Taxonomy of Temporality.** *Proceedings of DIS '25*.
+    DOI: 10.1145/3715668.3734169
+    - Taxonomy of temporal dimensions in speculative design. Joe Lindley (Observatory) co-author — connects Observatory work to academic taxonomy-building.
+
+39. **Eschrich, J., McMullen, C., & Sterman, S. (2025). Speculative Design in Spiraling Time: Methods and Indigenous HCI.** arXiv preprint.
+    DOI: 10.48550/arXiv.2506.10229
+    - Decolonial speculative design through Indigenous temporal frameworks — extends the Prado/Schultz critiques.
+
+40. **Grønbæk, J.E., Klokmose, C., & Hornbæk, K. (2026). How Do Future Visions Shape the Field of Human-Computer Interaction?** *Proceedings of CHI '26*.
+    DOI: 10.1145/3772318.3791038
+    - CHI '26 full paper mapping how future visions shape HCI — methodologically close to our genealogy work.
+
+41. **Frauenberger, C., et al. (2026). Playful Frictional Design: A Design Space Grounded in Playfulness, Friction, and the Everyday.** *CHI '26 Extended Abstracts*.
+    DOI: 10.1145/3772363.3799290
+    - Extends Pierce's frictional design into playfulness. Frauenberger (entanglement HCI) connecting to Pierce's framework.
+
+---
+
+## Quality and Legitimacy of Speculation (2023–2026)
+
+42. **Ringfort-Felner, R., Neuhaus, R., Dörrenbächer, J., Großkopp, S., Theofanou-Fülbier, D., & Hassenzahl, M. (2023). Design Fiction in a Corporate Setting – a Case Study.** *Proceedings of DIS '23*.
+    DOI: 10.1145/3563657.3596126
+    - Explored potentials and limits of speculative methods (design fiction) applied in corporate/industry contexts, beyond academia.
+
+43. **Ringfort-Felner, R., Dörrenbächer, J., & Hassenzahl, M. (2025). The Quality of Speculation – A Scoping Review.** *Proceedings of DIS '25*.
+    DOI: 10.1145/3715336.3735794
+    - **Key paper:** First systematic scoping review addressing what constitutes "good" or "bad" speculation. Developed a descriptive taxonomy of quality for speculative design. Directly addresses the methodological vagueness critique that runs through the SCD lineage. Methodologically parallel to our genealogy project.
+
+44. **Ringfort-Felner, R., Dörrenbächer, J., Elsden, C., Auger, J., Pierce, J., Wong, R. Y., & Hassenzahl, M. (2026). The Quality of Speculation: Common Ground for Speculative Design in Human-Computer Interaction?** *CHI '26 Extended Abstracts*.
+    DOI: 10.1145/3772363.3778760
+    - Workshop paper building on the DIS '25 taxonomy. Brings together researchers to collectively examine how quality is constructed and negotiated across speculative design practices and contexts. Notable co-authors: Chris Elsden (Speculative Enactments), James Auger (speculative design practice pioneer), James Pierce, Richmond Wong.
+
+45. **Zhu, L., Chao, C., & Fu, Z. (2024). How HCI Integrates Speculative Thinking to Envision Futures.** *Journal of Futures Studies*, 28(4), 89–103.
+    - Recent mapping of how speculative thinking has been integrated into HCI research — another genealogical/mapping paper.
+
+---
+
 ## Summary
 
 Speculative and critical design branched from RtD through Dunne's critical design (1999), was popularized via Dunne & Raby (2013), and diversified into design fiction (Sterling, Bleecker, Lindley), critical making (Ratto), adversarial design (DiSalvo), and experiential futures (Candy). Key tensions include: who gets to speculate, what counts as "critical," and whether provocation constitutes research.
+
+**2023–2026 update:** The "Quality of Speculation" thread (Ringfort-Felner et al.) represents the field's most systematic attempt to address speculative design's legitimacy crisis through a quality taxonomy. This, combined with Zhu et al.'s (2024) mapping of speculative thinking in HCI, signals that the field is actively trying to consolidate and codify — exactly the kind of methodological self-reflection our genealogy paper aims to support.
+
+---
+
+## Additional Papers (Added from Exhaustive Review v3)
+
+46. **Noortman, R. et al. (2024). Co-creating Pluralistic Futures: A Systematic Literature Review on Participatory Speculative Design.** *Proceedings of DRS '24*.
+    URL: https://dl.designresearchsociety.org/drs-conference-papers/drs2024/researchpapers/375/
+    - Systematic review of participatory speculative design; three pathways: technical, social, integrated speculation.
+
+47. **Tharp, B. M., & Tharp, S. M. (2019). Discursive Design: Critical, Speculative, and Alternative Things.** MIT Press.
+    ISBN: 978-0-262-03898-2 | URL: https://mitpress.mit.edu/9780262038980/discursive-design/
+    - Proposed discursive design as unifying field for socially minded design practice.
+
+48. **Søndergaard, M. L. J. et al. (2023). Fabulation as an Approach for Design Futuring.** *Proceedings of DIS '23*.
+    DOI: 10.1145/3563657.3596097
+    - Introduced fabulation as open-ended, relational approach to design futuring grounded in feminist theory.
+
+49. **Forlano, L. (2023). Speculative Histories, Just Futures: From Counterfactual Artifacts to Counterfactual Actions.** *ACM TOCHI*, 30(2).
+    DOI: 10.1145/3577212
+    - Counterfactual artifacts and actions; speculative histories for just futures.
+
+50. **Baumer, E. P. S. (2020). Evaluating Design Fiction: The Right Tool for the Job.** *Proceedings of DIS '20*.
+    DOI: 10.1145/3357236.3395464
+    - Argued evaluating design fiction requires selecting the right epistemological tool.
+
+51. **Simeone, A. L. et al. (2022). Immersive Speculative Enactments: Bringing Future Scenarios and Technology to Life Using Virtual Reality.** *Proceedings of CHI '22*.
+    DOI: 10.1145/3491102.3517492
+    - Extended speculative enactments to VR for immersive future scenarios.
+
+52. **Wong, R. Y., Khovanskaya, V., Fox, S. E., Merrill, N., & Sengers, P. (2020). Infrastructural Speculations: Tactics for Designing and Interrogating Lifeworlds.** *Proceedings of CHI '20*.
+    DOI: 10.1145/3313831.3376515
+    - Introduced "infrastructural speculations" — speculative design considering complex long-lived system relationships.
+
+53. **Harrington, C. N. et al. (2022). "All that You Touch, You Change": Expanding the Canon of Speculative Design Towards Black Futuring.** *Proceedings of CHI '22*.
+    DOI: 10.1145/3491102.3502118
+    - Major paper expanding speculative design canon through Black futuring frameworks.
+
+54. **Bol, E. et al. (2025). Futures Garden – Using Speculative Design to Inspire Policy Making.** *World Futures Review*.
+    DOI: 10.1177/19467567251338770
+    - EU Policy Lab using speculative design for policy making.
+
+55. **Rosa, A. B. et al. (2021). Foresight and Design Fictions Meet at a Policy Lab.** *Futures*, 128, 102709.
+    DOI: 10.1016/j.futures.2021.102709
+    - Combined foresight with design fictions in EU policy lab.
+
+56. **Hu, B. A. (2026). Speculating for Epiplexity: How to Learn the Most from Speculative Design?** arXiv preprint.
+    DOI: 10.48550/arXiv.2602.22132
+    - Information-theoretic reframing of speculative design as knowledge generation process.
+
+57. **Expanding Historical Approaches to Speculative Design.** *Companion Publication of DIS '25*.
+    DOI: 10.1145/3715668.3734164
+    - Workshop historicizing speculative design through disciplinary lenses.
+
+58. **RCA/Futuring: A Decade of Future(s) Research at the Royal College of Art.** *The Design Journal*, 2025.
+    DOI: 10.1080/14606925.2025.2454838
+    - Ten years of futures research at RCA examining five approaches: SD, CoS, CyD, PrD, XnD.
+
+---
+
+### Cross-References (Added v2)
+- **Material Speculation** bridges speculative design with RtD by deploying functional artifacts (see literature/material-speculation.md)
+- **Afrofuturism** represents the decolonial branch of speculative practice (see literature/afrofuturism-design.md)
+- **World Building** is the core activity underlying Design Fiction (see literature/world-building.md)
+- **Foresight** provides the analytical framework (scenarios, cones) that speculative design materializes (see literature/foresight-design.md)
+- **Anticipatory Ethnography** is a hybrid of Design Fiction + Ethnography (see literature/anticipatory-ethnography.md)
+- **Design Futuring Exhaustive Map** — comprehensive 120-paper corpus (see literature/design-futuring-exhaustive.md)

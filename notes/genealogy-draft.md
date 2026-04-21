@@ -200,6 +200,7 @@ Entanglement HCI ◄──────── Thing-Centered  Multispecies
 3. **Who participates?** PD's expanding circle: workers → users → communities → marginalized groups → nonhumans
 4. **Eurocentrism** in speculative design: Prado & Oliveira (2014) and Schultz et al. (2018; DOI: 10.1016/j.destud.2018.05.001) challenge whose speculation counts
 5. **What counts as knowledge?** Annotated portfolios (DOI: 10.1145/2212877.2212889) vs. strong concepts (DOI: 10.1145/2362364.2362371) vs. design fiction vs. critical making — competing models of research contribution
+6. **Quality and legitimacy of speculation — still actively debated.** Ringfort-Felner et al.'s trajectory from corporate design fiction (DIS '23; DOI: 10.1145/3563657.3596126) to a scoping review of quality criteria (DIS '25; DOI: 10.1145/3715336.3735794) to a CHI '26 workshop convening Elsden, Auger, Pierce, and Wong (DOI: 10.1145/3772363.3778760) demonstrates that speculative design's legitimacy crisis is not resolved — it is being systematically addressed *right now*. Our genealogy contextualizes *why* this codification pressure exists: multiple competing parent traditions (critical design, design fiction, futures studies) with incompatible quality norms converging under the "speculative" umbrella without shared evaluative criteria.
 
 ---
 

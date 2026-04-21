@@ -164,6 +164,46 @@ Futuring methods in design draw from futures studies, foresight, and transition 
 
 ---
 
+---
+
+## Design Futuring Meta-Theory (Added from Exhaustive Review)
+
+33. **Kozubaev, S., Elsden, C., Howell, N., Søndergaard, M. L. J., Merrill, N., Schulte, B., & Wong, R. Y. (2020). Expanding Modes of Reflection in Design Futuring.** *Proceedings of CHI '20*.
+    DOI: 10.1145/3313831.3376526
+    - Identified five reflective modes for design futuring: designerly form-giving, temporality, positionality, real-world engagement, knowledge production.
+
+34. **Yu, S. (2025). Transition Designing as Ontological Redirection: Key Principles for Transition-Oriented Futuring.** *World Futures Review*.
+    DOI: 10.1177/19467567251338771
+    - Seven principles for transition-oriented futuring grounded in ontological design theory.
+
+35. **Aranda-Muñoz, Á., Bozic Yams, N., & Carlgren, L. (2025). Co-Experiential Futuring: Where Speculative Design and Arts Meet Futures Studies.** *Futures*, 167, 103520.
+    DOI: 10.1016/j.futures.2025.103520
+    - Introduced co-experiential futuring — bridging speculative design, arts, and futures studies.
+
+36. **Sanchez, T. et al. (2025). Let's Talk Futures: A Literature Review of HCI's Future Orientation.** *Proceedings of CHI '25*.
+    DOI: 10.1145/3706598.3713759
+    - Comprehensive literature review of HCI's future-orientation; SPIN framework.
+
+37. **Hu, B. A. et al. (2026). Protocol Futuring: Speculating Second-Order Dynamics of Protocols in Sociotechnical Infrastructural Futures.** *Proceedings of CHI '26*.
+    DOI: 10.1145/3772318.3790527
+    - Introduced protocol futuring — protocols as primary material of speculative inquiry.
+
+38. **Fry, T. (1999). A New Design Philosophy: An Introduction to Defuturing.** UNSW Press.
+    ISBN: 978-0-86840-753-0 | URL: https://www.bloomsburycollections.com/book/defuturing-a-new-design-philosophy/
+    - Introduced "defuturing" — the way design destroys futures through unsustainable practices.
+
+39. **Dunagan, J. (2019). Strategic Foresight Studio: A First-Hand Account of an Experiential Futures Laboratory.** *Journal of Futures Studies*, 23(3).
+    URL: https://jfsdigital.org/wp-content/uploads/2019/04/05-Dunagan-Strategic-Foresight-Studio.pdf
+    - First-hand account of designing and running an experiential futures lab.
+
+40. **RCA/Futuring: A Decade of Future(s) Research at the Royal College of Art.** *The Design Journal*, 2025.
+    DOI: 10.1080/14606925.2025.2454838
+    - Ten years of futures research at RCA examining five design future approaches.
+
+---
+
 ## Summary
 
 Futuring methods in design trace from futures studies (Dator, Bell, Slaughter) through transition design (Irwin, 2015), experiential futures (Candy), and decolonial futures (Escobar, Schultz et al.). They position design as fundamentally about shaping futures — not just products — and engage with systems thinking, sustainability transitions, and questions of whose futures count.
+
+**2025–2026 update:** The field has expanded significantly with meta-reviews (Sanchez et al. 2025, CHI '25), new methods (co-experiential futuring, protocol futuring), and institutional reflections (RCA's decade of futuring). Kozubaev et al. (2020) identified five reflective modes that remain the most cited framework for evaluating design futuring work.

@@ -162,3 +162,10 @@ Research through Design (RtD) is a methodological approach in which design activ
 ## Summary
 
 RtD emerged from Frayling's 1993 taxonomy, was formalized for HCI by Zimmerman et al. (2007), debated by Gaver (2012), and has since diversified into multiple strands: artifact-centered inquiry, annotated portfolios, strong concepts, concept-driven research, and entanglement approaches. It remains the foundational lineage from which many other design research methodologies branch.
+
+### Cross-References (Added v2)
+- **Constructionism** provides the epistemological foundation: making = knowing (see literature/constructionism.md)
+- **Prototyping as Research** is the material practice through which RtD produces knowledge (see literature/prototyping-as-research.md)
+- **Slow Technology** represents a temporal/reflective orientation within RtD (see literature/slow-technology.md)
+- **Material Speculation** bridges RtD with Speculative Design through functional deployed artifacts (see literature/material-speculation.md)
+- **Ethnography** provides complementary observational methods that inform and are transformed by RtD (see literature/ethnography-in-design.md)
