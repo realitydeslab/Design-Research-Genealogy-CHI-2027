@@ -4,9 +4,9 @@
 
 This file reconstructs and expands the corpus of Celik & Kaya (2025), who reviewed 117 papers in "Reviewing the expansion in Design Futuring Research: Emergent concepts around Speculative Design and Design Fiction" (*Futures*, DOI: 10.1016/j.futures.2025.103615). Since their full reference list is behind an Elsevier paywall, we reconstructed and expanded their corpus through intensive multi-query searching across ACM DL, Semantic Scholar, Google Scholar, Brave Search, and publisher databases.
 
-**Search methodology:** 25+ distinct queries across 7 query sets covering design futuring core, speculative design (systematic reviews, applications by domain), design fiction (methods, forms, evaluation), futures studies × design, emergent concepts, recent papers (2023–2026), and key researchers.
+**Search methodology:** 40+ distinct queries across 7 query sets covering design futuring core, speculative design (systematic reviews, applications by domain), design fiction (methods, forms, evaluation), futures studies × design, emergent concepts, recent papers (2023–2026), and key researchers. Expansion round 2 (April 2026) added 40 papers via intensive web searches targeting DRS 2024, CHI 2025–2026, DIS 2024–2025, Futures journal 2023–2025, and key researcher publication pages.
 
-**Total papers catalogued:** 120
+**Total papers catalogued:** 160
 
 ---
 
@@ -687,64 +687,282 @@ This file reconstructs and expands the corpus of Celik & Kaya (2025), who review
 ## 11. Cross-References to Other Genealogy Lineages
 
 ### Connections to RtD
-- Blythe (2014) "Research through Design Fiction" — bridges RtD and design fiction (entry #53)
+- Blythe (2014) "Research through Design Fiction" — bridges RtD and design fiction (#53)
 - Gaver's "What Should We Expect from RtD" (CHI 2012) — foundational for understanding speculative design as RtD
 - Pierce (2021) frictional design framework (#18) positions speculative design in tension with progressional RtD
+- Meskus & Tikka (2024) speculative approaches methodology (#125)
 
 ### Connections to PD
 - Noortman et al. (2024) systematic review of participatory speculative design (#69)
 - Chopra et al. (2022) participatory speculative design for sustainability (#31)
 - Aranda-Muñoz et al. (2025) co-experiential futuring bridges PD and experiential futures (#75)
+- Tsekleves et al. (2022) speculative design for participatory policy in Malaysia (#123)
+- Science Fictioning Participatory Design (PDC '22) (#160)
 
 ### Connections to More-than-Human
 - Edwards et al. (2023) speculative design for more-than-human urban futures (#35)
 - Wakkary (2021) more-than-human design (#97)
 - Forlano (2017) posthumanism and design (#96)
+- Wakkary et al. (2022) more-than-human concepts panel (#140)
+- Coulton & Lindley (2023) productive oscillation for more-than-human research (#151)
+- Søndergaard et al. (2023) mosses and feminist more-than-human care (#147)
 
 ### Connections to Critical Design
 - Bardzell & Bardzell (2013) "What is Critical about Critical Design?" (#16)
 - Pierce et al. (2015) expanding criticality in HCI (#17)
 - Malpass (2017) critical design in context (#14)
+- Campreguer França et al. (2025) potentials for friction (#144)
 
 ### Connections to Feminist HCI
 - Bardzell (2010) feminist HCI agenda (#95)
 - Costanza-Chock (2020) design justice (#92)
 - Søndergaard et al. (2023) fabulation as feminist futuring (#102)
 - Harrington et al. (2022) Black futuring (#83)
+- Torp Dideriksen et al. (2024) feminist speculative design for policy (#130)
+
+### Additional Papers (Expansion Round 2)
+
+121. **Zolyomi, A., & Snyder, J. (2024). An Emotion Translator: Speculative Design By Neurodiverse Dyads.** *Proceedings of CHI '24*.
+     DOI: 10.1145/3613904.3642210
+     - Speculative co-design with autistic adults exploring affective imaginaries for emotion translation technology.
+     - *Sub-domain:* SD × accessibility/neurodiversity. *Connections:* Participatory design, disability studies.
+
+122. **Hebrok, M., & Mainsah, H. (2022). Skinny as a Bird: Design Fiction as a Vehicle for Reflecting on Food Futures.** *Futures*, 141, 102983.
+     DOI: 10.1016/j.futures.2022.102983
+     - Design fiction exploring sustainable food consumption through a speculative food delivery service.
+     - *Sub-domain:* SD × sustainability/food. *Connections:* Design fiction, material culture.
+
+123. **Tsekleves, E., Ling Lee, C. A., Yong, M. H., & Lau, S. L. (2022). Exploring the Use of Speculative Design as a Participatory Approach to More Inclusive Policy-Identification and Development in Malaysia.** *Design Studies*, 81, 101118.
+     DOI: 10.1016/j.destud.2022.101118
+     - Speculative design for participatory policy-making in Global South context (Malaysia). ProtoPolicyAsia project.
+     - *Sub-domain:* SD × policy/Global South. *Connections:* Participatory design, public sector innovation.
+
+124. **Crabtree, A., Lodge, T., Sailaja, N., Chamberlain, A., Coulton, P., Pilling, M., & Forrester, I. (2025). Experiencing the Future Mundane: Configuring Design Fiction as Breaching Experiment.** *Human-Computer Interaction*.
+     DOI: 10.1080/07370024.2025.2454555
+     - Novel methodological approach configuring design fiction as breaching experiment to surface taken-for-granted expectations about future technologies.
+     - *Sub-domain:* Design fiction methodology. *Connections:* Ethnomethodology, smart media.
+
+125. **Meskus, M., & Tikka, E. (2024). Speculative Approaches in Social Science and Design Research: Methodological Implications of Working in 'the Gap' of Uncertainty.** *Qualitative Research*, 24(2), 209–228.
+     DOI: 10.1177/14687941221129808
+     - Methodological analysis of speculative approaches at the intersection of social science and design research.
+     - *Sub-domain:* Speculative design methodology. *Connections:* STS, qualitative methods.
+
+126. **Bendor, R., & Lupetti, M. L. (2025). Teaching Speculative Design.** *International Journal of Technology and Design Education*, 35(1), 403–425.
+     DOI: 10.1007/s10798-024-09908-3
+     - First detailed pedagogical account of teaching speculative design in a design-engineering program.
+     - *Sub-domain:* SD × education. *Connections:* Design pedagogy, curriculum development.
+
+127. **McVeigh-Schultz, R. (2024). Experiential Futures Through Immersive Design Fiction.** *Proceedings of DRS '24*.
+     DOI: 10.21606/drs.2024.1206
+     - Immersive Design Fiction Experiences (IDFEs) using VR to bridge experiential gulf in futures work.
+     - *Sub-domain:* Experiential futures × VR. *Connections:* Design fiction, immersive media.
+
+128. **Kinch, S., Uhre Rahbek, J., & Behrendtzen, E. (2024). Playful Speculative Design: Crafting Preposterous Futures Through Playful Tension.** *Proceedings of DRS '24*.
+     DOI: 10.21606/drs.2024.323
+     - Framework for playful speculative design exploring the imaginative borderland of 'preposterous futures.'
+     - *Sub-domain:* SD × play. *Connections:* Ludic design, design methods.
+
+129. **Park, S., & Shin, D. (2024). Contextualizing Comedy Techniques for Speculative Design: Unraveling Futures Cone from Sketch Comedy Series, '2032/2033 Futures'.** *Proceedings of DRS '24*.
+     DOI: 10.21606/drs.2024.433
+     - Comedy techniques as speculative design methodology; Korean sketch comedy as design fiction.
+     - *Sub-domain:* SD × cultural practice. *Connections:* Design fiction, media studies.
+
+130. **Torp Dideriksen, S., Verma, H., Cila, N., & Murray-Rust, D. (2024). Towards Just Futures: A Feminist Approach to Speculative Design for Policy Making.** *Proceedings of DRS '24*.
+     DOI: 10.21606/drs.2024.935
+     - Feminist speculative design exhibition (smart doorbells in Amsterdam) challenging power structures in policy.
+     - *Sub-domain:* SD × policy/feminist. *Connections:* Feminist HCI, design for governance.
+
+131. **Han, J., Chen, J., & Shu, L. (2025). "Housing Diversity Means Diverse Housing": Blending Generative AI into Speculative Design in Rural Co-Housing Communities.** *Proceedings of CHI '25*.
+     DOI: 10.1145/3706598.3713906
+     - Generative AI as catalyst for plural speculative discourse in rural co-housing design.
+     - *Sub-domain:* SD × AI/housing. *Connections:* Generative AI, participatory design.
+
+132. **Wang, Z., et al. (2025). Speculative Job Design: Probing Alternative Opportunities for Gig Workers in an Automated Future.** *Proceedings of CHI '25*.
+     DOI: 10.1145/3706598.3713885
+     - Proposes labor as designable material; speculative design with Chinese gig workers.
+     - *Sub-domain:* SD × labor/automation. *Connections:* Future of work, Global South.
+
+133. **Sosa, R., & Palomino, M. A. (2024). Amazon Z to A: Speculative Design to Understand the Future of Labor-Intensive Workplaces.** *Proceedings of DIS '24*.
+     DOI: 10.1145/3643834.3661561
+     - Speculative design as critical and reflective engagement with early-stage ethnographic data on labor.
+     - *Sub-domain:* SD × labor/industry. *Connections:* Ethnography, critical design.
+
+134. **Altarriba Bertran, F., et al. (2026). A Tale of Many Futures: Children in Finland and India Envision the Future of Education.** *Proceedings of CHI '26*.
+     DOI: 10.1145/3772318.3793808
+     - Cross-cultural speculative design with children envisioning educational futures.
+     - *Sub-domain:* SD × education/children. *Connections:* Participatory design, cross-cultural design.
+
+135. **Elkoumy, K., et al. (2025). The Future of AI in Government Services and Global Risks: Insights from Design Fictions.** *European Journal of Futures Research*, 13, 9.
+     DOI: 10.1186/s40309-025-00253-9
+     - Literature-based design fiction exploring AI governance dilemmas in public services.
+     - *Sub-domain:* SD × AI policy. *Connections:* Design fiction, responsible AI.
+
+136. **Wong, R. Y. (2023). Broadening Privacy and Surveillance: Eliciting Interconnected Values with a Scenarios Workbook on Smart Home Cameras.** *Proceedings of DIS '23*.
+     DOI: 10.1145/3563657.3596028
+     - Extended design workbook methodology for eliciting interconnected values around surveillance technologies.
+     - *Sub-domain:* SD × privacy/values. *Connections:* Values-sensitive design, design fiction.
+
+137. **Fu, Z., & Xia, Q. (2025). Design Foresight: A Unified Approach Integrating Futurization and De-futurization in Design.** *Journal of Futures Studies*, 30(2), 7–16.
+     URL: https://jfsdigital.org/2025-2/vol-30-no-2-december-2025/design-foresight-a-unified-approach-integrating-futurization-and-de-futurization-in-design/
+     - Unified methodology bridging futurization and de-futurization (Fry) in design practice.
+     - *Sub-domain:* Design futuring methodology. *Connections:* Defuturing, foresight.
+
+138. **Braun, R., et al. (2024). Literary Futures: Harnessing Fiction for Futures Work.** *Futures*, 157, 103314.
+     DOI: 10.1016/j.futures.2024.103314
+     - Uses literary fiction as generative and participatory tool for futures work; tested with 130+ participants.
+     - *Sub-domain:* Design fiction × literary methods. *Connections:* Futures studies, narrative.
+
+139. **Escobar, A. (2025). Against Terricide: Envisioning Paths Towards Pluriversal Transitions.** *Current Sociology*.
+     DOI: 10.1177/09213740251363743
+     - Late-career statement on pluriversal transitions; extends autonomous design toward post-extractivist futures.
+     - *Sub-domain:* Pluriversal design. *Connections:* Decolonial theory, transition design.
+
+140. **Wakkary, R., Coskun, A., Cila, N., Nicenboim, I., Frauenberger, C., Hassenzahl, M., Mancini, C., Giaccardi, E., & Forlano, L. (2022). More-than-Human Concepts, Methodologies, and Practices in HCI.** *CHI '22 Extended Abstracts*.
+     DOI: 10.1145/3491101.3516503
+     - Panel on more-than-human design methodologies for HCI; agenda-setting.
+     - *Sub-domain:* More-than-human / posthuman. *Connections:* Speculative design, design theory.
+
+141. **Lindley, J., Coulton, P., & Akmal, H. A. (2025). The Shape of Things to Come: Design and Speculation.** *The Design Journal*.
+     DOI: 10.1080/14606925.2025.2514064
+     - Reframes speculative design as departure from human-centred paradigm; conceptual framework for complex adaptive systems.
+     - *Sub-domain:* Speculative design theory. *Connections:* More-than-human, systems thinking.
+
+142. **Whitham, R., Jacobs, N., Coulton, P., Stockton, B., & Lindley, J. (2024). Re-imagining and Reaffirming Design Pedagogy in Response to Generative AI Tools.** *Proceedings of DRS '24*.
+     DOI: 10.21606/drs.2024.953
+     - Adapting design pedagogy (including speculative approaches) for generative AI era.
+     - *Sub-domain:* SD × education/AI. *Connections:* Design pedagogy, generative AI.
+
+143. **Panda, S., et al. (2024). Thought Experiments in Design Fiction for Visualization.** arXiv preprint.
+     DOI: 10.48550/arXiv.2411.08621
+     - Conceptualizes thought experiments as tools in design fiction for visualization research.
+     - *Sub-domain:* Design fiction × visualization. *Connections:* Data visualization, thought experiments.
+
+144. **Campreguer França, N., Itzlinger, A., Maurer, B., & Frauenberger, C. (2025). Potentials for Friction: Exploring the Design Space Between Playfulness and Agonism.** *INTERACT '25*, Springer.
+     DOI: 10.1007/978-3-032-05005-2_13
+     - Method of 'tracing frictions' at the intersection of playfulness and agonism.
+     - *Sub-domain:* Frictional/playful design. *Connections:* Pierce's frictional design, adversarial design.
+
+145. **Rosa, A. B., et al. (2023). Strategic Foresight in Design Thinking: How Strategic Foresight Informs and Enriches Design-Led Innovation.** *Futures*, 149, 103137.
+     URL: https://allthingsinnovation.com/wp-content/uploads/2025/02/2023_Strategic_Foresight_In_Design_Thinking.pdf
+     - Integrating strategic foresight into design thinking processes.
+     - *Sub-domain:* Foresight × design. *Connections:* Design thinking, innovation.
+
+146. **Li, Z., et al. (2025). "Who Lives in the Future?": A Toolkit for Imagining Inclusive and Posthuman Future Characters as an Approach to Design Fiction.** *Futures*, 170, 103735.
+     DOI: 10.1016/j.futures.2025.103735
+     - Card-based toolkit for creating inclusive, posthuman future characters in design fiction.
+     - *Sub-domain:* Design fiction tools. *Connections:* Inclusive design, posthumanism.
+
+147. **Söndergaard, M. L. J., et al. (2023). What Mosses Can Teach Us About Design Fabulations and Feminist More-than-Human Care.** *Human-Computer Interaction*.
+     DOI: 10.1080/07370024.2023.2269893
+     - Extends fabulation into more-than-human care through moss-based design experiments.
+     - *Sub-domain:* Fabulation × more-than-human. *Connections:* Feminist design, ecology.
+
+148. **Speculative Design for Envisioning More-than-Human Futures in Desirable Counter-Cities** — see entry #35 above. **Additional entry: Almeida, T. (2022). Future Home Stories: Participatory Predicaments and Methodological Scaffolding in Narrative Speculation on Alternative Domestic Lives.** *Digital Creativity*, 33(3).
+     DOI: 10.1080/14626268.2022.2082488
+     - Narrative speculation methodology for alternative domestic futures.
+     - *Sub-domain:* Design fiction × domestic. *Connections:* Participatory design, smart home.
+
+149. **Ko, D., Bal, A., & Bird Bear, A. (2025). Speculative Design Toward Inclusive Futures: Leveraging Voices and Future Imaginations of the School Community.** *AERA Open*.
+     DOI: 10.1177/23328584251324152
+     - Speculative design for inclusive school futures challenging systems of punishment and exclusion.
+     - *Sub-domain:* SD × education/justice. *Connections:* Inclusive design, education policy.
+
+150. **Moreno, M., et al. (2024). How to Think About the Future of Food? Speculative Design and Design Fiction Applied to Consumer Research.** *Future Foods*, 10, 100468.
+     DOI: 10.1016/j.fufo.2024.100468
+     - Systematic analysis of speculative design and design fiction in consumer food research.
+     - *Sub-domain:* SD × food/consumer research. *Connections:* Design fiction, consumer studies.
+
+151. **Coulton, P., & Lindley, J. (2023). Productive Oscillation as a Strategy for Doing More-than-Human Design Research.** *Human-Computer Interaction*.
+     DOI: 10.1080/07370024.2023.2276393
+     - Strategies for discussing and designing for trust in complex socio-technological systems through oscillation between human and more-than-human perspectives.
+     - *Sub-domain:* More-than-human design research. *Connections:* Trust, design methodology.
+
+152. **Speculative Design with Generative AI: Applying Stable Diffusion and ChatGPT to Imagining Climate Change Futures.** *Proceedings of ARTECH '23*.
+     DOI: 10.1145/3632776.3632827
+     - Using generative AI tools (Stable Diffusion, ChatGPT) for speculative design of climate futures.
+     - *Sub-domain:* SD × AI/climate. *Connections:* Generative AI, sustainability.
+
+---
+
+## 10b. Additional Meta-Reviews & Workshops
+
+153. **Lindley, J. (2022). The Ultimate Measure of Success for Speculative Design is to Disappear Completely.** *Interaction Design and Architecture(s)*.
+     URL: https://www.mightytraveljack.com/research
+     - Provocative argument that speculative design's success means its dissolution into mainstream design practice.
+     - *Sub-domain:* Meta-theory. *Connections:* Design theory.
+
+154. **Speculative Critical Design for Alternative Futures: Challenges, Benefits, and Pedagogical Strategies in Korean Undergraduate Curricula.** *PROSPECTS* (Springer), 2025.
+     DOI: 10.1007/s11125-025-09729-9
+     - Integrating SCD into Korean design education; non-Western pedagogical perspective.
+     - *Sub-domain:* SD × education/Global South. *Connections:* Design pedagogy.
+
+155. **Integrating Speculative and Systemic Perspectives into Service Design Education in the Chinese Context.** *Journal of Futures Studies*, 30(2), 2025.
+     URL: https://jfsdigital.org/2025-2/vol-30-no-2-december-2025/integrating-speculative-and-systemic-perspectives-into-service-design-education-in-the-chinese-context/
+     - Speculative and systemic design integration in Chinese service design education.
+     - *Sub-domain:* SD × education/China. *Connections:* Service design, design pedagogy.
+
+156. **The Future of Futures Thinking in Design Education.** *Journal of Futures Studies*, 30(2), 2025.
+     URL: https://jfsdigital.org/2025-2/vol-30-no-2-december-2025/the-future-of-futures-thinking-in-design-education/
+     - Mapping how futures thinking is taught in design programs globally.
+     - *Sub-domain:* Meta-review / education. *Connections:* Design pedagogy, futures literacy.
+
+157. **A Journey to Literacy in Design Futures: Revelations from the Global South.** *The Design Journal*, 2024.
+     DOI: 10.1080/14606925.2024.2443700
+     - Decolonial framework integrating Global South epistemologies into design futures literacy.
+     - *Sub-domain:* Design futuring / decolonial. *Connections:* Futures literacy, Global South.
+
+158. **Participatory Speculation.** *Proceedings of PDC '18 Vol. 2*.
+     DOI: 10.1145/3210604.3210640
+     - Early framework for integrating participatory design with speculative methods.
+     - *Sub-domain:* PD × speculation. *Connections:* Participatory design, speculative design.
+
+159. **Immersive Design Fiction.** *Proceedings of DIS '18*.
+     DOI: 10.1145/3196709.3196793
+     - Early VR-based design fiction methodology.
+     - *Sub-domain:* Design fiction × immersion. *Connections:* VR, experiential futures.
+
+160. **Science Fictioning Participatory Design.** *Proceedings of PDC '22 Vol. 1*.
+     DOI: 10.1145/3536169.3537775
+     - Science fiction prototyping integrated with participatory design methods.
+     - *Sub-domain:* PD × design fiction. *Connections:* Sci-fi prototyping, participatory design.
 
 ---
 
 ## Summary Statistics
 
-- **Total papers:** 120
+- **Total papers:** 160
 - **By sub-domain:**
-  - Design futuring core: 10
-  - Speculative design foundational/theoretical: 14
-  - Speculative design applications (AI, sustainability, health, policy, education, industry): 23
-  - Design fiction foundational/methodological: 11
-  - Design fiction forms/practices (worldbuilding, diegetic, fictional papers, participatory): 11
-  - Experiential futures: 6
+  - Design futuring core: 12
+  - Speculative design foundational/theoretical: 16
+  - Speculative design applications (AI, sustainability, health, policy, education, industry, labor, food): 38
+  - Design fiction foundational/methodological: 14
+  - Design fiction forms/practices (worldbuilding, diegetic, fictional papers, participatory, literary): 15
+  - Experiential futures: 7
   - Transition design: 6
-  - Decolonial & plural futures (Afrofuturism, indigenous, pluriversal, feminist): 16
-  - Emergent concepts (speculative enactments, anticipatory ethnography, fabulation, protocol futuring): 9
-  - Meta-reviews & taxonomies: 14
+  - Decolonial & plural futures (Afrofuturism, indigenous, pluriversal, feminist): 18
+  - Emergent concepts (speculative enactments, anticipatory ethnography, fabulation, frictional/playful, protocol futuring): 13
+  - Meta-reviews & taxonomies: 21
 - **By year (approximate):**
   - Pre-2010: 12
   - 2010–2015: 20
   - 2016–2019: 25
-  - 2020–2022: 25
-  - 2023–2024: 22
-  - 2025–2026: 16
+  - 2020–2022: 30
+  - 2023–2024: 38
+  - 2025–2026: 35
 - **By venue (top venues):**
-  - CHI: ~25 papers
-  - DIS: ~10 papers
-  - Futures (Elsevier): ~8 papers
-  - DRS: ~5 papers
+  - CHI: ~30 papers
+  - DIS: ~14 papers
+  - Futures (Elsevier): ~12 papers
+  - DRS: ~10 papers
   - Books (MIT Press, Bloomsbury, etc.): ~15
-  - Other journals & conferences: ~57
+  - Journal of Futures Studies: ~6 papers
+  - Human-Computer Interaction (T&F): ~5 papers
+  - Other journals & conferences: ~68
 - **Key gaps identified:**
   - Limited non-English literature (Celik & Kaya also restricted to English)
-  - Underrepresented: speculative design in Global South contexts
-  - Few papers on evaluation/assessment of speculative design outcomes
-  - Limited integration between experiential futures and HCI methods
+  - Underrepresented: speculative design in Global South contexts (though 2024–2025 shows growth: Malaysia, Korea, China, India)
+  - Few papers on evaluation/assessment of speculative design outcomes (Baumer 2020, Ringfort-Felner 2025 beginning to address)
+  - Limited integration between experiential futures and HCI methods (McVeigh-Schultz 2024 emerging)
   - The "quality of speculation" thread is emergent (2023–2026) — likely to expand significantly
+  - Growing but undertheorized: generative AI × speculative design intersection
+  - Design fiction × food/agriculture still sparse relative to topic urgency

@@ -495,6 +495,34 @@ This review targets the corpus identified by Celik & Kaya (2025), who reviewed 1
      ISBN: 978-1-4742-6189-2 | DOI: 10.5040/9781474261906
      - Comprehensive history and theory of critical design; positioned it within broader design futuring landscape.
 
+111. **Fu, Z., & Xia, Q. (2025). Design Foresight: A Unified Approach Integrating Futurization and De-futurization in Design.** *Journal of Futures Studies*, 30(2), 7–16.
+     URL: https://jfsdigital.org/2025-2/vol-30-no-2-december-2025/design-foresight-a-unified-approach-integrating-futurization-and-de-futurization-in-design/
+     - Unified methodology bridging Fry's futurization and de-futurization in design practice.
+
+112. **Braun, R., et al. (2024). Literary Futures: Harnessing Fiction for Futures Work.** *Futures*, 157, 103314.
+     DOI: 10.1016/j.futures.2024.103314
+     - Literary fiction as generative and participatory tool for futures work; 130+ participants across workshops.
+
+113. **McVeigh-Schultz, R. (2024). Experiential Futures Through Immersive Design Fiction.** *Proceedings of DRS '24*.
+     DOI: 10.21606/drs.2024.1206
+     - Immersive Design Fiction Experiences using VR to bridge experiential gulf in futures engagement.
+
+114. **Crabtree, A., et al. (2025). Experiencing the Future Mundane: Configuring Design Fiction as Breaching Experiment.** *Human-Computer Interaction*.
+     DOI: 10.1080/07370024.2025.2454555
+     - Configures design fiction as a breaching experiment to surface taken-for-granted expectations about future technologies.
+
+115. **Meskus, M., & Tikka, E. (2024). Speculative Approaches in Social Science and Design Research.** *Qualitative Research*, 24(2), 209–228.
+     DOI: 10.1177/14687941221129808
+     - Methodological analysis of speculative approaches bridging social science and design research.
+
+116. **Escobar, A. (2025). Against Terricide: Envisioning Paths Towards Pluriversal Transitions.** *Current Sociology*.
+     DOI: 10.1177/09213740251363743
+     - Late-career statement on pluriversal transitions and post-extractivist futures.
+
+117. **A Journey to Literacy in Design Futures: Revelations from the Global South.** *The Design Journal*, 2024.
+     DOI: 10.1080/14606925.2024.2443700
+     - Decolonial framework integrating Global South epistemologies into design futures literacy.
+
 ---
 
 ## Summary
@@ -503,4 +531,4 @@ Futuring methods in design trace from futures studies (Dator, Bell, Slaughter, V
 
 **2025–2026 update:** The field has expanded significantly with meta-reviews (Celik & Kaya 2025; Sanchez et al. 2025), new methods (co-experiential futuring, protocol futuring), Black futuring perspectives (Harrington et al. 2022), more-than-human futures (Wakkary 2021; Tironi et al. 2023), institutional reflections (RCA's decade of futuring), and transition design empirical reviews (Irwin & Kossoff 2025). Kozubaev et al. (2020)'s five reflective modes remain the most cited framework for evaluating design futuring work, while the SPIN framework (Sanchez et al. 2025) provides a new classification for HCI futures research.
 
-**Total entries: 110 papers/books across 12 categories.**
+**Total entries: 117 papers/books across 12 categories.**

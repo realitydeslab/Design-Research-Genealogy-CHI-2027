@@ -280,6 +280,42 @@ Speculative and critical design branched from RtD through Dunne's critical desig
     DOI: 10.1080/14606925.2025.2454838
     - Ten years of futures research at RCA examining five approaches: SD, CoS, CyD, PrD, XnD.
 
+59. **Zolyomi, A., & Snyder, J. (2024). An Emotion Translator: Speculative Design By Neurodiverse Dyads.** *Proceedings of CHI '24*.
+    DOI: 10.1145/3613904.3642210
+    - Speculative co-design with autistic adults exploring affective imaginaries.
+
+60. **Torp Dideriksen, S., et al. (2024). Towards Just Futures: A Feminist Approach to Speculative Design for Policy Making.** *Proceedings of DRS '24*.
+    DOI: 10.21606/drs.2024.935
+    - Feminist speculative design exhibition on smart doorbells in Amsterdam.
+
+61. **Kinch, S., et al. (2024). Playful Speculative Design: Crafting Preposterous Futures Through Playful Tension.** *Proceedings of DRS '24*.
+    DOI: 10.21606/drs.2024.323
+    - Framework for playful speculative design.
+
+62. **Lindley, J., et al. (2025). The Shape of Things to Come: Design and Speculation.** *The Design Journal*.
+    DOI: 10.1080/14606925.2025.2514064
+    - Reframes speculative design beyond human-centred paradigm.
+
+63. **Wang, Z., et al. (2025). Speculative Job Design: Probing Alternative Opportunities for Gig Workers.** *CHI '25*.
+    DOI: 10.1145/3706598.3713885
+    - Speculative design with Chinese gig workers; labor as designable material.
+
+64. **Sosa, R., & Palomino, M. A. (2024). Amazon Z to A: Speculative Design to Understand the Future of Labor-Intensive Workplaces.** *DIS '24*.
+    DOI: 10.1145/3643834.3661561
+    - Speculative design as critical engagement with ethnographic data on labor.
+
+65. **Han, J., et al. (2025). Blending Generative AI into Speculative Design in Rural Co-Housing Communities.** *CHI '25*.
+    DOI: 10.1145/3706598.3713906
+    - Generative AI as catalyst for speculative design discourse.
+
+66. **Campreguer França, N., et al. (2025). Potentials for Friction: Exploring the Design Space Between Playfulness and Agonism.** *INTERACT '25*.
+    DOI: 10.1007/978-3-032-05005-2_13
+    - Method of 'tracing frictions'; extends Pierce's frictional design.
+
+67. **Tsekleves, E., et al. (2022). Exploring Speculative Design for Participatory Policy in Malaysia.** *Design Studies*, 81, 101118.
+    DOI: 10.1016/j.destud.2022.101118
+    - Speculative design for participatory policy-making in Global South.
+
 ---
 
 ### Cross-References (Added v2)
@@ -288,4 +324,4 @@ Speculative and critical design branched from RtD through Dunne's critical desig
 - **World Building** is the core activity underlying Design Fiction (see literature/world-building.md)
 - **Foresight** provides the analytical framework (scenarios, cones) that speculative design materializes (see literature/foresight-design.md)
 - **Anticipatory Ethnography** is a hybrid of Design Fiction + Ethnography (see literature/anticipatory-ethnography.md)
-- **Design Futuring Exhaustive Map** — comprehensive 120-paper corpus (see literature/design-futuring-exhaustive.md)
+- **Design Futuring Exhaustive Map** — comprehensive 160-paper corpus (see literature/design-futuring-exhaustive.md)
