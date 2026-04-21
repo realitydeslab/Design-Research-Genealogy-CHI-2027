@@ -37,6 +37,12 @@ This document maps the genealogical relationships between design research method
 - Ratto (2011) "critical making" extends prototyping into critical inquiry
 - Rosner (2018) craft + computation as research
 
+**Prototyping → Provotypes** (Mogensen 1992 → Boer & Donovan 2012)
+- Provocative prototypes: high-fidelity artifacts deployed to provoke reactions and challenge assumptions
+- Mogensen (1992) coined in Scandinavian PD; Boer & Donovan (2012) revived at DIS
+- **Bridging concept**: connects PD's participatory ethics + critical design's provocation + prototyping's material practice
+- Distinct from speculative design: provotypes are ethnographically grounded and participatory, not gallery-exhibited
+
 ### Layer 3: Speculative Branch
 
 **RtD → Speculative Design** (Dunne 1999 → Dunne & Raby 2013)

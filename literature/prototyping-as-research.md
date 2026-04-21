@@ -139,6 +139,42 @@
     DOI: 10.1162/074793601750357196
     - Design has its own ways of knowing; prototyping is the material practice through which designerly knowledge is produced.
 
+## Provotypes: Provocative Prototypes (Mogensen 1992 → Boer & Donovan 2012)
+
+*Provotypes sit at the intersection of Prototyping as Research, Participatory Design, and Critical Design — a bridging concept that connects PD's participatory ethics with critical design's provocative intent through the material practice of prototyping.*
+
+24b. **Mogensen, P. (1992). Towards a Provotyping Approach in Systems Development.** *Scandinavian Journal of Information Systems*, 4(1), Article 5.
+    URL: https://aisel.aisnet.org/sjis/vol4/iss1/5/
+    - **The original coinage.** Within Scandinavian PD tradition, proposed "provotyping" — using provocative prototypes to challenge existing work practices rather than merely model future systems. Rooted in ethnographic fieldwork.
+
+24c. **Boer, L. & Donovan, J. (2012). Provotypes for Participatory Innovation.** *Proceedings of DIS '12*.
+    DOI: 10.1145/2317956.2318014
+    - Revived and formalized provotypes as "provocative prototypes" — high-fidelity artifacts grounded in ethnographic material, deployed in participatory settings to provoke reactions and challenge taken-for-granted assumptions. Positioned at the "fuzzy front-end" of design, before solution-space prototyping.
+
+24d. **Boer, L., Donovan, J. & Buur, J. (2013). Challenging Industry Conceptions with Provotypes.** *CoDesign*, 9(2), 73-89.
+    DOI: 10.1080/15710882.2013.788193
+    - Extended provotypes to industry innovation contexts. Participants used provotypes of mental wellbeing measurement designs to challenge existing industry assumptions.
+
+24e. **Boer, L. (2015). Provotypes are Provocative Prototypes.** In *Designing Environments for Life* workshops.
+    URL: https://www.researchgate.net/publication/283792668
+    - Clarified the conceptual distinction: provotypes question assumptions about people's relationship to phenomena they take for granted. Design isn't always about solving problems — it can provoke discussion.
+
+24f. **Frankjaer, R. & Dalsgaard, P. (2020).** Provotypes as "high-fidelity artifacts injected into a use scenario, to provoke certain reactions to be used to inform later design decisions."
+    - Formalized the provotype as a designerly 'type' — distinct from prototype, mockup, or sketch.
+
+24g. **Mohan, A., et al. (2022). Interactive Fiction Provotypes for Coping with Interpersonal Racism.** *Proceedings of CHI '22*.
+    DOI: 10.1145/3491102.3502044
+    - Recent application: provotypes as user-generated speculative design concepts addressing social issues. Shows provotypes moving into social justice contexts.
+
+**Genealogical significance:** Provotypes bridge three lineages:
+- From **Participatory Design**: Mogensen coined the term within Scandinavian PD (1992); provotypes are deployed in participatory workshops
+- From **Critical/Speculative Design**: share the provocation orientation, but grounded in ethnographic fieldwork rather than gallery exhibition
+- From **Prototyping as Research**: extend prototyping from evaluation/exploration into deliberate provocation — prototypes that don't solve problems but challenge assumptions
+
+**Key distinction from speculative design:** Provotypes are ethnographically grounded (they emerge from fieldwork observations), participatory (deployed in group settings to provoke discussion), and instrumentally oriented (reactions inform later design decisions). Speculative design artifacts are typically designer-authored provocations for public exhibition.
+
+---
+
 ## Recent Developments (2020–2026)
 
 27. **Mueller, F., Semertzidis, N., et al. (2023). Toward Understanding the Design of Intertwined Human–Computer Integrations.** *ACM Transactions on Computer-Human Interaction*, 30(3).
@@ -164,6 +200,7 @@
 - **Material Speculation**: Takes prototyping to its extreme: fully functional "research products" in everyday settings
 - **Soma Design** (Höök): Body as prototype — extends prototyping from external artifacts to lived bodily experience
 - **Critical Making** (Ratto): Prototyping as critical thinking about technology and society
+- **Provotypes** (Mogensen 1992; Boer & Donovan 2012): Provocative prototypes that bridge PD + critical design + prototyping — ethnographically grounded provocation
 - **HCD to More-than-Human**: Prototyping things that develop their own agencies; "unmaking" as complement to making
 
 ## Summary
