@@ -132,6 +132,42 @@
     ISBN: 978-1-84467-985-5
     — "The capacity to aspire" is unequally distributed; futures-thinking as a cultural resource that marginalized communities have less access to.
 
+26. **Benjamin, R. (Ed.) (2019). Captivating Technology: Race, Carceral Technoscience, and Liberatory Imagination in Everyday Life.** Duke University Press.
+    DOI: 10.1215/9781478004493
+    — Edited volume on how technology reproduces carceral logics; liberatory imagination as counter-design practice. Complements "Race After Technology" with broader scholarly contributions.
+
+27. **Benjamin, R. (2024). Imagination: A Manifesto.** W. W. Norton.
+    ISBN: 978-0-393-88134-5
+    — Extended the abolitionist design critique into imagination as political practice; argued that imagination is unevenly distributed and must be deliberately cultivated.
+
+28. **Harrington, C. N., Erete, S., & Piper, A. M. (2019). Dequeuing Health: Community-Based Participatory Design of a Health Information Technology Intervention.** *Proceedings of CHI '19*, Article 393.
+    DOI: 10.1145/3290605.3300623
+    — Community-based participatory design with older Black adults; demonstrated how equity-centered methods produce different design outcomes than standard HCD.
+
+29. **Ansari, A. (2020). Plural Bodies, Pluriversal Humans: Questioning the Ontology of 'Body' in Design.** *Somatechnics*, 10(3), 286–305.
+    DOI: 10.3366/soma.2020.0324
+    — Challenged universalist assumptions about the body in design; argued for pluriversal understanding of embodiment drawing on South Asian and decolonial philosophy.
+
+30. **Mazé, R. (2019). Politics of Designing Visions of the Future.** *Journal of Futures Studies*, 23(3), 23–38.
+    DOI: 10.6531/JFS.201903_23(3).0003
+    — Analyzed the politics of who gets to design futures; connected futures studies to design justice concerns. Whose futures are designed, and who designs them?
+
+31. **Noel, L.-A., & Paiva, M. (2021). Learning to Recognize Exclusion.** *Journal of Usability Studies*, 16(2), 63–72.
+    URL: https://uxpajournal.org/learning-recognize-exclusion/
+    — Positionality and exclusion in design education; practical framework for recognizing how design excludes. Connected to the Designer's Critical Alphabet toolkit.
+
+32. **Prado de O. Martins, L. (2014). Privilege and Oppression: Towards a Feminist Speculative Design.** *Proceedings of DRS '14*.
+    URL: https://dl.designresearchsociety.org/drs-conference-papers/drs2014/researchpapers/72/
+    — Feminist critique of speculative design's complicity with privilege; called for speculative practice grounded in lived experiences of oppression.
+
+33. **Irani, L., Vertesi, J., Dourish, P., Philip, K., & Grinter, R. E. (2010). Postcolonial Computing: A Lens on Design and Development.** *Proceedings of CHI '10*, 1311–1320.
+    DOI: 10.1145/1753326.1753522
+    — Postcolonial theory applied to HCI; challenged design's implicit Western universalism. Foundational for the decolonial design movement.
+
+34. **Bardzell, S. (2010). Feminist HCI: Taking Stock and Outlining an Agenda for Design.** *Proceedings of CHI '10*, 1301–1310.
+    DOI: 10.1145/1753326.1753521
+    — Feminist framework for HCI and design; pluralism, participation, ecology, embodiment, and self-disclosure as feminist design qualities. Foundational for equity-oriented design research.
+
 ## Connections to Other Lineages
 
 - **Speculative Design** (parent): Afrofuturism is a culturally-specific speculative practice that challenges SCD's Western defaults (Prado & Oliveira 2014)

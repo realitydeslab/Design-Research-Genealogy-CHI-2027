@@ -169,6 +169,39 @@
     DOI: 10.1145/3686169.3686211
     - Care ethics applied to more-than-human design; temporality as a design concern beyond human timescales.
 
+33. **Bødker, S. (2015). Third-Wave HCI, 10 Years Later — Participation and Sharing.** *Interactions*, 22(5), 24–31.
+    DOI: 10.1145/2804405
+    - Revisited the third-wave framework a decade later; emphasized participation and sharing as key challenges, foreshadowing the more-than-human turn.
+
+34. **Bannon, L. J. (1991). From Human Factors to Human Actors: The Role of Psychology and Human-Computer Interaction Studies in System Design.** In J. Greenbaum & M. Kyng (Eds.), *Design at Work*, 25–44.
+    DOI: 10.1201/9781003063988-3
+    - Full citation of the foundational critique; humans as active agents in systems, not passive "factors." Published in the same volume as Greenbaum & Kyng's cooperative design manifesto.
+
+35. **DiSalvo, C. (2012). Adversarial Design.** MIT Press.
+    ISBN: 978-0-262-01738-1
+    URL: https://www.jstor.org/stable/j.ctt5hhbs4
+    - Design as political practice; agonistic pluralism through designed artifacts. Challenges HCD's implicit consensus-seeking by foregrounding contest and dissensus.
+
+36. **Forlano, L. (2017). Posthumanism and Design.** *She Ji*, 3(1), 16–29.
+    DOI: 10.1016/j.sheji.2017.08.001
+    - Already listed as #13; see above.
+
+36. **Hyysalo, S. (2010). Health Technology Development and Use: From Practice-Bound Imagination to Evolving Impacts.** Routledge.
+    DOI: 10.4324/9780203856444
+    - Detailed study of user involvement in health technology innovation; showed how "practice-bound imagination" constrains HCD. Bridges user innovation studies and participatory design.
+
+37. **Hyysalo, S., Jensen, T. E., & Oudshoorn, N. (Eds.) (2016). The New Production of Users: Changing Innovation Collectives and Involvement Strategies.** Routledge.
+    DOI: 10.4324/9781315648088
+    - Comprehensive account of how user involvement has evolved across UCD, PD, user innovation, and co-creation; maps the changing landscape from HCD to more participatory forms.
+
+38. **Mancini, C. (2011). Animal-Computer Interaction: A Manifesto.** *Interactions*, 18(4), 69–73.
+    DOI: 10.1145/1978822.1978836
+    - Manifesto for extending HCI to animal-computer interaction; one of the earliest explicit calls to move beyond human-centered frames in computing.
+
+39. **Light, A., Powell, A., & Shklovski, I. (2017). Design for Existential Crisis in the Anthropocene Age.** *Proceedings of C&T '17*, 270–279.
+    DOI: 10.1145/3083671.3083688
+    - Argued that design in the Anthropocene requires moving beyond human-centered frameworks toward planetary-scale concerns.
+
 ## Connections to Other Lineages
 
 - **Participatory Design**: PD expanded HCD's "user" to "community"; more-than-human design further expands to "nonhuman"

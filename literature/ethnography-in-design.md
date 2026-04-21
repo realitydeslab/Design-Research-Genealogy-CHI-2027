@@ -155,6 +155,48 @@
     DOI: 10.4324/9780203559055
     - Anthropological perspective on making; connects ethnographic traditions with design's material practices.
 
+## Additional Key Works
+
+31. **Suchman, L. (2002). Located Accountabilities in Technology Production.** *Scandinavian Journal of Information Systems*, 14(2), Article 7.
+    URL: https://aisel.aisnet.org/sjis/vol14/iss2/7/
+    - Feminist politics of accountability in technology design; argued that design responsibility must be "located" within specific social relations of production. Extended situated actions framework to questions of power and ethics in design.
+
+32. **Bell, G., & Dourish, P. (2007). Yesterday's Tomorrows: Notes on Ubiquitous Computing's Dominant Vision.** *Personal and Ubiquitous Computing*, 11(2), 133–143.
+    DOI: 10.1007/s00779-006-0071-x
+    - Ethnographic critique of ubicomp's "proximate future" narrative; showed how the field perpetually defers its own vision. Cultural ethnography applied to computing's own mythology.
+
+33. **Nardi, B. A. (2010). My Life as a Night Elf Priest: An Anthropological Account of World of Warcraft.** University of Michigan Press.
+    ISBN: 978-0-472-05098-7
+    - Three-year participatory ethnography of WoW; extended ethnographic methods to virtual worlds. Demonstrated ethnography's adaptability to digital cultural contexts.
+
+34. **Laurel, B. (1991/2013). Computers as Theatre** (2nd ed.). Addison-Wesley / Pearson.
+    ISBN: 978-0-321-91862-8
+    - Framed human-computer interaction through dramatic theory; human experience of technology as theatrical engagement. Influenced ethnographic attention to narrative and experience in design.
+
+35. **Laurel, B. (Ed.) (2003). Design Research: Methods and Perspectives.** MIT Press.
+    ISBN: 978-0-262-12263-4
+    - Collected diverse design research methods including ethnographic approaches; positioned ethnography within the broader design research toolkit.
+
+36. **Salvador, T., Bell, G., & Anderson, K. (1999). Design Ethnography.** *Design Management Journal*, 10(4), 35–41.
+    DOI: 10.1111/j.1948-7169.1999.tb00274.x
+    - Already listed as #14; see above.
+
+36. **Bell, G. (2006). No More SMS from Jesus: Ubicomp, Religion and Techno-spiritual Practices.** *Proceedings of UbiComp '06*, 141–158.
+    DOI: 10.1007/11853565_9
+    - Cultural ethnography revealing how religious practices shape technology adoption across Asia; challenged Western-centric assumptions in ubiquitous computing design.
+
+37. **Suchman, L., Trigg, R., & Blomberg, J. (2002). Working Artefacts: Ethnomethods of the Prototype.** *British Journal of Sociology*, 53(2), 163–179.
+    DOI: 10.1080/00071310220133287
+    - Ethnomethodological analysis of prototypes as working artefacts; bridged ethnography and prototyping as research practices.
+
+38. **Crabtree, A. (2003). Designing Collaborative Systems: A Practical Guide to Ethnography.** Springer.
+    DOI: 10.1007/978-1-4471-0053-9
+    - Practical guide connecting ethnography to collaborative system design; codified ethnographic methods for CSCW practitioners.
+
+39. **Dourish, P., & Mazmanian, M. (2013). Media as Material: Information Representations as Material Foundations for Organizational Practice.** In P. Carlile et al. (Eds.), *How Matter Matters*, 92–118. Oxford University Press.
+    DOI: 10.1093/acprof:oso/9780199671533.003.0004
+    - Material turn in organizational ethnography; information as material practice. Extended ethnographic attention to materiality in design.
+
 ---
 
 ## Connections to Other Lineages

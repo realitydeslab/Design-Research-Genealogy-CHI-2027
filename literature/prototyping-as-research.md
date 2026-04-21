@@ -175,6 +175,41 @@
 
 ---
 
+## Maker Culture, Critical Making, and Craft
+
+31. **Hartmann, B., Klemmer, S. R., Bernstein, M., Abdulla, L., Burr, B., Robinson-Mosher, A., & Gee, J. (2006). Reflective Physical Prototyping through Integrated Design, Test, and Analysis.** *Proceedings of UIST '06*, 299–308.
+    DOI: 10.1145/1166253.1166300
+    - d.tools toolkit for physical prototyping; integrated design, test, and analysis in a single environment. Best paper award at UIST. Demonstrated how prototyping tools shape what designers can explore.
+
+32. **Klemmer, S. R., Hartmann, B., & Takayama, L. (2006). How Bodies Matter: Five Themes for Interaction Design.** *Proceedings of DIS '06*, 140–149.
+    DOI: 10.1145/1142405.1142429
+    - Articulated five ways physical bodies matter in interaction design; connected bodily prototyping to design knowledge.
+
+33. **Greenberg, S., Carpendale, S., Marquardt, N., & Buxton, B. (2012). Sketching User Experiences: The Workbook.** Morgan Kaufmann / Elsevier.
+    ISBN: 978-0-12-381959-8
+    - Practical companion to Buxton (2007); systematic sketching and prototyping techniques including wizard-of-oz methods. Made sketching-as-prototyping accessible to practitioners.
+
+34. **Paulos, E., Honicky, R. J., & Hooker, B. (2009). Citizen Science: Enabling Participatory Urbanism.** In M. Foth (Ed.), *Handbook of Research on Urban Informatics*, 414–436. IGI Global.
+    DOI: 10.4018/978-1-60566-152-0.ch028
+    - Prototyping for citizen science; designed tools that enable public participation in urban sensing. Extended prototyping from lab to urban-scale civic engagement.
+
+35. **Rosner, D. K. (2018). Critical Fabulations: Reworking the Methods and Margins of Design.** MIT Press.
+    ISBN: 978-0-262-03885-2
+    DOI: 10.7551/mitpress/11035.001.0001
+    - Redefined design as investigative, activist, and culturally situated practice. "Critical fabulations" as stories that awaken alternative design histories through making.
+
+36. **Rosner, D. K., & Ames, M. (2014). Designing for Repair: Infrastructures and Materialities of Breakdown.** *Proceedings of CSCW '14*, 319–331.
+    DOI: 10.1145/2531602.2531692
+    - Repair as design practice; prototyping extends beyond creation to maintenance and breakdown. Shifted prototyping discourse toward care and sustainability.
+
+37. **Paulos, E. (2012). You Amateur! (Keynote).** *Proceedings of DIS '12*.
+    DOI: 10.1145/2317956.2317959
+    - Provocation on amateur making and its relationship to professional design; positioned maker culture as a form of critical prototyping practice.
+
+38. **Rosner, D. K., & Ryokai, K. (2009). Reflections on Craft: Probing the Creative Process of Everyday Knitters.** *Proceedings of C&C '09*, 195–204.
+    DOI: 10.1145/1640233.1640264
+    - Ethnography of craft practice; knitting as design thinking. Connected traditional craft to computational prototyping through shared reflective processes.
+
 ## Recent Developments (2020–2026)
 
 27. **Mueller, F., Semertzidis, N., et al. (2023). Toward Understanding the Design of Intertwined Human–Computer Integrations.** *ACM Transactions on Computer-Human Interaction*, 30(3).
