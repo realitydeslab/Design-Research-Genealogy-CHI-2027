@@ -4,7 +4,7 @@
 
 This document maps the genealogical relationships between design research methodologies, informed by the Design Research Observatory's 21-concept taxonomy, exhaustive literature searching (600+ papers across 25 literature files), and person-based deep research on key researchers in each lineage. The genealogy spans from the 1962 Design Methods Movement through to the posthuman/multispecies turn of the 2020s, covering **25+ interconnected lineages** organized into pre-history, epistemological, methodological, meta-methodological, speculative, participatory, observational, temporal, practice-based, and contextual layers.
 
-**Key changes in v3.2:** Adds three new lineages — **Design Methods Movement** (1960s pre-history: Jones, Alexander, Archer, Simon, Rittel, Schön, Cross), **First-Person Methods** (autoethnography, autobiographical design), and **Intermediate-Level Knowledge** (annotated portfolios, strong concepts, bridging concepts, research products). Also expanded PD to 56 papers with 6 theoretical turns, and added experiential futures / speculative enactments. Total literature base: 600+ papers across 25 files.
+**Key changes in v3.4:** Adds **Textbooks & Handbooks** analysis (28 texts mapping the codification sequence — when methods become teachable) and **2024–2026 Recent Trends** (21 papers, five macro-trends). v3.2 added Design Methods Movement, First-Person Methods, Intermediate-Level Knowledge, expanded PD, experiential futures. Total literature base: 650+ papers/texts across 27 files.
 
 ---
 
@@ -504,8 +504,17 @@ This document maps the genealogical relationships between design research method
 - Harrington et al. (2022) Afrofuturist design toolkit
 - Johansson et al. (2024) Why Larp? — *LARP × HCI synthesis*
 - Benford et al. (2024) Designing Multispecies Worlds — *artist-led + MtHD*
-- Ringfort-Felner et al. (2025) quality of speculation
+- Ringfort-Felner et al. (2025) quality of speculation + "Otherware" companion
 - Celik & Kaya (2025) design futuring expansion review
+- Qi & Yu (2025) PD systematic review — *185 papers, self-codification*
+- Song et al. (2025) TOCHI unmaking synthesis — *counter-movement consolidation*
+- Giaccardi, Redström & Nicenboim (2024) MtHD special issue — *HCI journal*
+- Tomico et al. (DIS 2024) methods-to-be for nature-entangled research
+- Kaltenhauser et al. (CHI 2024) autoethnography kaleidoscope review
+- Tao & Vyas (CHI 2025) GenAI + speculative design for co-housing
+- Naqvi et al. (CHI 2025) GenAI in design — catalyst or hollow trend?
+- Smith et al. (Routledge 2025) new PD handbook — *field maturation*
+- Poikolainen Rosén et al. (2025) more-than-human design in practice
 
 ---
 
@@ -526,11 +535,47 @@ This document maps the genealogical relationships between design research method
 3. **Somabotics convergence point** (Benford × Höök 2021–) documented as an active branching point
 4. **Quality of Speculation** as a cross-cutting lens alongside Feminist HCI and Design Justice
 
+### 2024–2026 Trends Analysis (v3.3)
+8. **Recent Trends** (21 papers) — self-codification wave, GenAI disruption, more-than-human acceleration, counter-movement consolidation, handbook maturation
+
+### Textbooks & Handbooks (v3.4)
+9. **Textbooks & Handbooks** (28 texts) — codification sequence from Laurel 2003 through the 2022–2026 burst (PD, MtHD, speculative, soma design reaching textbook status)
+
 ### Total Literature Base
-- **25 literature files** covering all lineages
-- **600+ unique papers** with full citations
+- **27 literature files** covering all lineages, trends, and textbooks
+- **650+ unique papers/texts** with full citations
 - **Key researchers mapped** for each lineage with person-based deep searching
 - **Connections documented** between every pair of lineages
+
+---
+
+## 2024–2026: Five Macro-Trends
+
+*NEW in v3.3. Based on 21 papers from 2024–2026.*
+
+### Trend 1: Self-Codification Wave
+The field is mapping itself from within. Systematic/scoping reviews now cover: PD in HCI (Qi & Yu CHI 2025, 185 papers), speculation quality (Ringfort-Felner et al. DIS 2025, 63 papers), unmaking (Song et al. TOCHI 2025), autoethnography (Kaltenhauser et al. CHI 2024), and design-based research (*Interacting with Computers* 2025). This mirrors the original design methods movement's impulse to systematize — but now the object is the methods themselves. **The intermediate-level knowledge debate is being resolved empirically through these reviews.**
+
+### Trend 2: Generative AI Disruption
+GenAI is entering every lineage simultaneously:
+- **Speculative design:** GenAI as material for speculation (Tao & Vyas CHI 2025; Ardia ARTECH 2024)
+- **Participatory design:** LLMs simulating stakeholders, LLMs assisting community planning (2025 papers in *JAABE* and *Sustainable Cities and Society*)
+- **Qualitative analysis:** AI-assisted coding raises epistemological questions — is this a return to positivism? (Chatzichristos 2025; Nguyen & Welch 2026)
+- **Co-creation:** Agency in human-AI co-creation mapped (CSCW 2025 scoping review)
+- **Critical question:** Naqvi et al. (CHI 2025) ask whether GenAI is "catalyst for creativity or hollow trend"
+- **Institutional:** GenAICHI 2025 workshop (Muller et al.) signals field-level engagement
+
+### Trend 3: More-than-Human Acceleration
+Moving from theoretical framing to practical methods:
+- *Human–Computer Interaction* special issue on MtHD (Giaccardi, Redström & Nicenboim 2024)
+- "Methods-to-be" repository for nature-entangled research (Tomico et al. DIS 2024)
+- *More-Than-Human Design in Practice* Routledge book + *Interactions* forum (Poikolainen Rosén et al. 2025)
+
+### Trend 4: Counter-Movement Consolidation
+Unmaking gains TOCHI synthesis (Song et al. 2025) with full author team spanning repair, material unmaking, and political un/making. Counter-movements are being absorbed into mainstream methodology.
+
+### Trend 5: Handbook Maturation
+New *Routledge International Handbook of Contemporary Participatory Design* (Smith et al. 2025) signals PD's field maturation. CHI '25 workshops on Participatory AI in public sector signal institutional interest in PD + AI.
 
 ---
 
@@ -550,6 +595,10 @@ This document maps the genealogical relationships between design research method
 
 7. **The field is actively trying to codify itself.** The quality of speculation thread (Ringfort-Felner et al.), the Design Research Observatory (Lindley & Coulton), recent taxonomies (Snow et al. 2025, Cardenas et al. 2025, Celik & Kaya 2025), and now our genealogy represent meta-level efforts at self-organization.
 
+8. **GenAI is the next major branching point.** *NEW in v3.3.* Every existing lineage now has an "AI-augmented" variant emerging (2024–2026): AI-assisted speculation, AI-simulated participants, AI-coded qualitative data. The epistemological question is acute: if making = knowing (constructionism), what kind of knowledge does AI-assisted making produce? This parallels the original design methods movement's crisis — systematic methods threatened to make design mechanical; GenAI threatens to make it synthetic.
+
+9. **Textbooks mark the codification moment.** *NEW in v3.4.* The 2022–2026 period shows an unprecedented burst of handbook production (12+ major texts in 4 years). When a method gets its own textbook — PD (Bødker et al. 2022), speculation (Wakkary & Oogjes 2024), more-than-human design (Tironi et al. 2023, Poikolainen Rosén et al. 2024) — it transitions from "emerging method" to "established discipline." This textbook signal provides independent confirmation of the genealogy's lineage structure: the methods we identify as distinct lineages are the ones that have been independently codified into teachable form.
+
 ---
 
-*Draft v3.2 prepared April 21, 2026. Informed by the Design Research Observatory, DRS lineage, exhaustive literature searching across 25 literature files (600+ papers), and person-based deep research. For CHI 2027 submission (deadline: 2026-09-12).*
+*Draft v3.4 prepared April 21, 2026. Informed by the Design Research Observatory, DRS lineage, exhaustive literature searching across 27 literature files (650+ papers/texts), person-based deep research, 2024–2026 trends analysis, and textbook codification mapping. For CHI 2027 submission (deadline: 2026-09-12).*
