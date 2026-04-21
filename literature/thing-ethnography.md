@@ -142,6 +142,67 @@
     DOI: 10.1145/3411763.3450390
     - Explored how everyday things could "speak" through voice interfaces; extends thing ethnography into voice AI contexts.
 
+## Person-Based Additions: Expanded Research
+
+### Elisa Giaccardi — More-Than-Human Design Evolution
+
+29. **Giaccardi, E. (2018). Things Making Things: Designing the Internet of Reinvented Things.** *IEEE Pervasive Computing*, 17(4), 42–50.
+    DOI: 10.1109/MPRV.2018.2873854
+    - Proposed "things making things" as a design paradigm where connected objects participate in design processes. Extends thing ethnography from observation to active design participation by nonhumans.
+
+30. **Giaccardi, E., Redström, J., & Nicenboim, I. (2025). The Making(s) of More-Than-Human Design: Introduction to the Special Issue on More-Than-Human Design and HCI.** *Human–Computer Interaction*, 40(1-4), 1–16.
+    DOI: 10.1080/07370024.2024.2353357
+    - Editorial framing the state of more-than-human design in HCI; positioned thing ethnography as foundational methodology and traced its evolution into AI-mediated design contexts.
+
+31. **Giaccardi, E. (2020). Casting Things as Partners in Design: Towards a More-Than-Human Design Practice.** In H. Wiltse (Ed.), *Relating to Things*, Bloomsbury.
+    DOI: 10.5040/9781350124288.ch-006
+    - Positioned things as active design partners rather than passive subjects. Extended thing ethnography into collaborative design practice.
+
+32. **Karana, E., Barati, B., & Giaccardi, E. (2020). Living Artefacts: Conceptualizing Livingness as a Material Quality in Everyday Artefacts.** *International Journal of Design*, 14(3).
+    URL: http://www.ijdesign.org/index.php/IJDesign/article/view/3957
+    - Proposed "livingness" as a material quality of everyday artifacts. Extends thing ethnography's non-human perspective to biological and responsive material properties.
+
+### Iohanna Nicenboim — Decentering & AI Intersection
+
+33. **Nicenboim, I. (2024). Designing-with AI: More-than-human Design in/through Practice.** PhD Thesis, TU Delft.
+    URL: https://repository.tudelft.nl/
+    - Comprehensive doctoral work exploring the shift from human-centered to more-than-human design in AI contexts. Synthesizes thing ethnography methods with AI design practices through methodological interventions.
+
+34. **Nicenboim, I., Giaccardi, E., & Redström, J. (2023). Designing More-than-Human AI: Experiments on Situated Conversations and Silences.** *Diid — Disegno Industriale Industrial Design*, 80, 12.
+    DOI: 10.30682/diid8023a
+    - Explored situated conversations and silences as design strategies for more-than-human AI. Extended thing ethnography into conversational AI through experimental design research.
+
+35. **Nicenboim, I., Giaccardi, E., Nam, S. (2025). Diffractive Interfaces: Facilitating Agential Cuts in Forest Data Across More-than-Human Scales.** *Proceedings of CHI '25*.
+    - Applied thing ethnography principles to environmental data at forest scales; demonstrates extension of the methodology beyond domestic/urban settings to ecological contexts.
+
+### Nazli Cila — Smart Things & Agent Metaphors
+
+36. **Cila, N., Smit, I., Giaccardi, E., & Kröse, B. (2017). Products as Agents: Metaphors for Designing the Products of the IoT Age.** *Proceedings of CHI '17*, 448–459.
+    DOI: 10.1145/3025453.3025797
+    - Explored agent metaphors for IoT product design; showed how conceiving products as agents with varying degrees of autonomy enables new design approaches. Bridges thing ethnography with agent-based interaction design.
+
+37. **Cila, N., Giaccardi, E., Tynan-O'Mahony, F., Speed, C., Caldwell, M., & Rubens, N. (2015). Listening to an Everyday Kettle: How Can the Data Objects Collect Be Useful for Design Research?** *Proceedings of PIN-C: 4th Participatory Innovation Conference*.
+    - Applied thing ethnography in practice by "listening" to a kettle's sensor data; demonstrated practical utility of thing-generated data for participatory design research.
+
+### Chris Speed — IoT Ethnography & Data-Driven Design
+
+38. **Speed, C. (2023). The Internet of Things.** In P. Thomas (Ed.), *Bloomsbury Encyclopaedia of New Media Art*, Bloomsbury.
+    - Encyclopaedic overview situating IoT within new media art and design; contextualizes thing ethnography's contribution to understanding connected objects.
+
+39. **Lechelt, S., Gorkovenko, K., Speed, C., Stead, M., Thorp, J.K., & Soares, L. (2020). Designing for the End of Life of IoT Objects.** *Proceedings of DIS '20*.
+    DOI: 10.1145/3393914.3395880
+    - Explored end-of-life design for IoT objects; extends thing ethnography's temporal perspective to object death, disposal, and legacy.
+
+40. **Murray-Rust, D., Elsden, C., Nissen, B., Tallyn, E., Pschetz, L., & Speed, C. (2022). Blockchain and Beyond: Understanding Blockchains through Prototypes and Public Engagement.** *ACM Transactions on Computer-Human Interaction*, 29(5).
+    DOI: 10.1145/3503462
+    - Extended data-driven design research into blockchain contexts; demonstrates how thing ethnography approaches can apply to distributed ledger technologies.
+
+### Heather Wiltse — Philosophical Foundations
+
+41. **Wiltse, H. (2020). Revealing Relations of Fluid Assemblages.** In H. Wiltse (Ed.), *Relating to Things*, 239–255. Bloomsbury.
+    ISBN: 978-1-350-12425-7
+    - Detailed analysis of how fluid assemblages reveal hidden relations between users, platforms, and things — theoretical deepening of thing ethnography's relational perspective.
+
 ---
 
 ## Connections to Other Lineages

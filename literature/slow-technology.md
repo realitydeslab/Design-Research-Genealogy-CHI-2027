@@ -138,6 +138,75 @@
     DOI: 10.1145/2317956.2318008
     - Long-term RtD methodology; slow technology concepts applied to speculative user enactments.
 
+## Person-Based Additions: Expanded Research
+
+### Lars Hallnäs — Foundational Theory Extensions
+
+28. **Hallnäs, L., & Redström, J. (2006). Interaction Design — Foundations, Experiments.** University of Borås/Interactive Institute.
+    ISBN: 91-631-8468-0
+    - Book-length elaboration of the theoretical foundations for slow technology; extended computational aesthetics into a comprehensive interaction design framework based on expressions and presence rather than use.
+
+29. **Hallnäs, L. (2011). On the Foundations of Interaction Design Aesthetics: Revisiting the Notions of Form and Expression.** *International Journal of Design*, 5(1), 73–84.
+    URL: http://www.ijdesign.org/index.php/IJDesign/article/view/778
+    - Revisited foundational aesthetic concepts for interaction design; argued for expression (how things present themselves) over function as the basis for design aesthetics — core to slow technology's philosophical stance.
+
+30. **Hallnäs, L. (2015). On the Philosophy of Slow Technology.** In *Metaphysics and Things*, University of Borås.
+    URL: https://hb.diva-portal.org/
+    - Philosophical reflection on slow technology's deeper implications; positioned it within broader philosophical discourse on temporality and technology.
+
+31. **Hallnäs, L., Melin, L., & Redström, J. (2002). Textile Displays: Using Textiles to Investigate Computational Technology as Design Material.** *Proceedings of NordiCHI '02*, 157–166.
+    DOI: 10.1145/572020.572039
+    - Early exploration of textiles as computational design material; demonstrated how slow, material-focused approaches could extend into fabric-based interaction.
+
+### William Gaver — Ludic Design & Domestic Technology
+
+32. **Gaver, W., Blythe, M., Boucher, A., Jarvis, N., Bowers, J., & Wright, P. (2010). The Prayer Companion: Openness and Specificity, Materiality and Spirituality.** *Proceedings of CHI '10*, 2055–2064.
+    DOI: 10.1145/1753326.1753640
+    - The Prayer Companion: a device for cloistered nuns that displays news topics as prompts for prayer. Exemplar of slow technology deployed in an actual spiritual practice — slowness, reflection, and material presence in a real-world setting over years.
+
+33. **Gaver, W., Dunne, A., & Pacenti, E. (1999). Cultural Probes.** *Interactions*, 6(1), 21–29.
+    DOI: 10.1145/291224.291235
+    - Introduced cultural probes — provocative, open-ended design research instruments. Methodological precursor to slow technology's emphasis on reflection and ambiguity over task-oriented efficiency.
+
+34. **Gaver, W. (2002). Designing for Homo Ludens.** *I3 Magazine*, No. 12.
+    URL: https://research.gold.ac.uk/id/eprint/3795
+    - Proposed designing for play and curiosity rather than productivity. Theoretical complement to slow technology — ludic engagement as an alternative to instrumental efficiency.
+
+35. **Gaver, W., Boucher, A., Pennington, S., & Walker, B. (2004). Cultural Probes and the Value of Uncertainty.** *Interactions*, 11(5), 53–56.
+    DOI: 10.1145/1015530.1015555
+    - Defended the openness and uncertainty of cultural probes against over-analysis; parallels slow technology's resistance to efficiency-driven design.
+
+### Mikael Wiberg — Material Turn & Architecture
+
+36. **Wiberg, M. (2016). Interaction, New Materials & Computing — Beyond the Disappearing Computer, Towards Material Interactions.** *Materials & Design*, 90, 1200–1206.
+    DOI: 10.1016/j.matdes.2015.05.032
+    - Argued for moving beyond the "disappearing computer" paradigm toward material-centered interaction. Provides material foundation for slow technology's attention to the physical, temporal presence of computational things.
+
+37. **Wiberg, M., & Stolterman, E. (2014). What Makes Interaction Design Research a Design Research Contribution?** In *The Routledge Companion to Design Research*, Routledge.
+    - Examined what constitutes a design research contribution; relevant to slow technology's claim that temporal, reflective artifacts generate distinctive design knowledge.
+
+38. **Odom, W., Lindley, S., Pschetz, L., Tsaknaki, V., Vallgårda, A., Wiberg, M., & Yoo, D. (2018). Time, Temporality, and Slowness: Future Directions for Design Research.** *CHI EA '18*.
+    DOI: 10.1145/3170427.3170609
+    - Workshop bringing together temporality researchers; mapped future directions for slow technology across time, temporality, and material change in design.
+
+39. **Ghajargar, M., & Wiberg, M. (2018). Thinking with Interactive Artifacts: Reflection as a Concept in Design Outcomes.** *Design Studies*, 56, 142–166.
+    DOI: 10.1016/j.destud.2017.12.001
+    - Investigated how interactive artifacts support reflective thinking — direct extension of slow technology's core agenda of designing for reflection.
+
+40. **Ghajargar, M., Wiberg, M., & Stolterman, E. (2018). Designing IoT Systems That Support Reflective Thinking: A Relational Approach.** *International Journal of Design*, 12(1), 21–35.
+    URL: http://www.ijdesign.org/index.php/IJDesign/article/view/2883
+    - Applied slow technology principles to IoT design; proposed relational approach where IoT systems promote reflection rather than automation.
+
+41. **Jung, H., Wiltse, H., Wiberg, M., & Stolterman, E. (2017). Metaphors, Materialities, and Affordances: Hybrid Morphologies in the Design of Interactive Artifacts.** *Design Studies*, 53, 24–46.
+    DOI: 10.1016/j.destud.2017.06.004
+    - Analyzed how metaphors and materialities shape interaction design; provides conceptual tools for understanding slow technology's material-temporal qualities.
+
+### Johan Redström — Design Theory
+
+42. **Redström, J., & Wiltse, H. (2025). Designing for (Alternative) Platformed Relations.** *Designing*, Sage Publications, 1, 32–37.
+    DOI: 10.1177/27523513241261754
+    - Extended design theory into platform relations; addresses how slow technology principles might apply to platform-mediated experiences.
+
 ---
 
 ## Connections to Other Lineages

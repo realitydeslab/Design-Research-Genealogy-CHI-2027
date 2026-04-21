@@ -124,6 +124,77 @@
     URL: http://www.ijdesign.org/index.php/IJDesign/article/view/2275
     - Prototypes and tools as "instruments of inquiry" — extends constructionist epistemology to the material instruments of design research.
 
+## Person-Based Additions: Expanded Research
+
+### Leah Buechley — E-Textiles & Computational Crafts
+
+24. **Buechley, L., Eisenberg, M., Catchen, J., & Crockett, A. (2008). The LilyPad Arduino: Using Computational Textiles to Investigate Engagement, Aesthetics, and Diversity in Computer Science Education.** *Proceedings of CHI '08*, 423–432.
+    DOI: 10.1145/1357054.1357123
+    - Introduced the LilyPad Arduino — a fabric-based construction kit enabling novices to design wearable electronics. Demonstrated constructionist principles through e-textiles: making as learning, diversity through material engagement, aesthetic expression as knowledge production.
+
+25. **Buechley, L., & Hill, B.M. (2010). LilyPad in the Wild: How Hardware's Long Tail is Supporting New Engineering and Design Communities.** *Proceedings of DIS '10*, 199–207.
+    DOI: 10.1145/1858171.1858206
+    - Tracked two-year evolution of the LilyPad Arduino and its community; demonstrated how constructionist tools enable new engineering/design communities beyond traditional computing demographics.
+
+26. **Buechley, L., & Eisenberg, M. (2008). The LilyPad Arduino: Toward Wearable Engineering for Everyone.** *IEEE Pervasive Computing*, 7(2), 12–15.
+    DOI: 10.1109/MPRV.2008.38
+    - Positioned LilyPad as democratizing wearable computing; constructionism extended from screen-based to body-based, material computing.
+
+27. **Buechley, L., & Eisenberg, M. (2007). Fabric PCBs, Electronic Sequins, and Socket Buttons: Techniques for E-Textile Craft.** *Personal and Ubiquitous Computing*, 13(2), 133–150.
+    DOI: 10.1007/s00779-007-0181-0
+    - Technical innovations enabling e-textile construction; bridged craft traditions with computational making — constructionism through textile practice.
+
+### Paulo Blikstein — Digital Fabrication & Maker Movement
+
+28. **Blikstein, P. (2018). Maker Movement in Education: History and Prospects.** In M.J. de Vries (Ed.), *Handbook of Technology Education*, 419–437. Springer.
+    DOI: 10.1007/978-3-319-44687-5_33
+    - Comprehensive overview connecting constructionism to the maker movement in education. Traced how Papert's ideas evolved through digital fabrication, FabLabs, and maker spaces.
+
+29. **Blikstein, P., & Worsley, M. (2016). Children Are Not Hackers: Building a Culture of Powerful Ideas, Deep Learning, and Equity in the Maker Movement.** In K. Peppler et al. (Eds.), *Makeology*, Routledge, 64–79.
+    DOI: 10.4324/9781315726519-5
+    - Critiqued simplistic "hacker" framing of making; argued for constructionism's deeper educational philosophy over surface-level maker activities. Equity-focused constructionism.
+
+### Yasmin Kafai — Computational Making & Learning
+
+30. **Kafai, Y., & Peppler, K. (2011). Youth, Technology, and DIY: Developing Participatory Competencies in Creative Media Production.** *Review of Research in Education*, 35(1), 89–119.
+    DOI: 10.3102/0091732X10383211
+    - Connected constructionism to participatory culture and DIY media production; extended Papert's making-as-learning into digital media contexts.
+
+31. **Kafai, Y., Fields, D., & Searle, K. (2014). Electronic Textiles as Disruptive Designs: Supporting and Challenging Maker Activities in Schools.** *Harvard Educational Review*, 84(4), 532–556.
+    DOI: 10.17763/haer.84.4.46m7372370214783
+    - E-textiles as constructionist disruption in schools; demonstrated how material making challenges conventional computing education paradigms.
+
+32. **Kafai, Y., & Burke, Q. (2014). Connected Code: Why Children Need to Learn Programming.** MIT Press.
+    ISBN: 978-0-262-02776-1
+    - Extended constructionism into contemporary coding education; argued for connected, creative programming over isolated skill-building.
+
+### Nigel Cross — Designerly Ways of Knowing
+
+33. **Cross, N. (2006). Designerly Ways of Knowing.** Springer.
+    ISBN: 978-1-84628-300-5
+    DOI: 10.1007/1-84628-301-9
+    - Book-length elaboration of design as a distinct intellectual culture with its own epistemology. Provides the design-disciplinary complement to Papert's learning-theoretical constructionism.
+
+34. **Cross, N. (2011). Design Thinking: Understanding How Designers Think and Work.** Berg/Bloomsbury.
+    ISBN: 978-1-84788-846-4
+    - Examined how designers think through making; design cognition as embodied, constructive knowledge production — making as the designer's mode of knowing.
+
+### Donald Schön — Reflective Practice Extensions
+
+35. **Schön, D.A. (1992). Designing as Reflective Conversation with the Materials of a Design Situation.** *Knowledge-Based Systems*, 5(1), 3–14.
+    DOI: 10.1016/0950-7051(92)90020-G
+    - Extended reflection-in-action to design specifically; designers engage in "conversations" with materials — the constructionist premise that making generates knowledge through material engagement.
+
+36. **Schön, D.A. (1987). Educating the Reflective Practitioner: Toward a New Design for Teaching and Learning in the Professions.** Jossey-Bass.
+    ISBN: 978-1-55542-220-2
+    - Applied reflective practice to professional education; design studios as constructionist learning environments where knowledge emerges through making and critique.
+
+### Seymour Papert — Later Extensions
+
+37. **Papert, S. (1993). The Children's Machine: Rethinking School in the Age of the Computer.** Basic Books.
+    ISBN: 978-0-465-01063-9
+    - Extended constructionism into institutional critique; argued that schools must fundamentally change to support learning-through-making rather than instruction-based pedagogy.
+
 ## Connections to Other Lineages
 
 - **Research through Design** (primary): Constructionism provides the epistemological justification for RtD's claim that designing = knowing

@@ -142,6 +142,71 @@
     DOI: 10.7551/mitpress/9780262036658.001.0001
     - Theoretical framework for how design practice generates theory; material speculation is a concrete instance of this "making" epistemology.
 
+## Person-Based Additions: Expanded Research
+
+### Audrey Desjardins — IoT Lived Experience & Domestic Technology
+
+29. **Desjardins, A., Viny, J.E., Key, C., & Johnston, N. (2019). Alternative Avenues for IoT: Designing with Non-Stereotypical Homes.** *Proceedings of CHI '19*, Article 351, 1–13.
+    DOI: 10.1145/3290605.3300581
+    - Critiqued homogeneous visions of domestic IoT by designing with non-stereotypical households. Extends material speculation's commitment to situated, everyday contexts beyond normative domesticity.
+
+30. **Desjardins, A., Biggs, H., Key, C., & Viny, J.E. (2020). IoT Data in the Home: Observing Entanglements and Drawing New Encounters.** *Proceedings of CHI '20*, 1–13.
+    DOI: 10.1145/3313831.3376340
+    - Design ethnography examining human-data entanglements around IoT devices. Demonstrates how material speculation artifacts generate unanticipated relationships between people, data, and things.
+
+31. **Desjardins, A., & Biggs, H. (2021). Data Epics: Embarking on Literary Journeys of Home Internet of Things Data.** *Proceedings of CHI '21*.
+    DOI: 10.1145/3411764.3445065
+    - Proposed literary methods for engaging with IoT data; extends material speculation through narrative approaches to data materiality in domestic settings.
+
+32. **Desjardins, A., Key, C., Biggs, H.R., & Aschenbeck, K. (2019). Bespoke Booklets: A Method for Situated Co-Speculation.** *Proceedings of DIS '19*, 697–709.
+    DOI: 10.1145/3322276.3322311
+    - Developed "bespoke booklets" as participatory speculation method. Bridges material speculation with participatory design by creating situated, material provocations.
+
+### Vasiliki Tsaknaki — Material Aesthetics & Craft-Based Interaction
+
+33. **Tsaknaki, V. (2017). Making Preciousness: Interaction Design Through Studio Crafts.** PhD Dissertation, KTH Royal Institute of Technology.
+    URL: https://kth.diva-portal.org/smash/record.jsf?pid=diva2:1147903
+    - Investigated preciousness in interaction design through craft practice — leather, silversmith, and textile crafting. Proposed "making preciousness" as a design attitude grounding material speculation in craft values of care, repair, and long-term use.
+
+34. **Tsaknaki, V., & Fernaeus, Y. (2016). Expanding on Wabi-Sabi as a Design Resource in HCI.** *Proceedings of CHI '16*, 5082–5093.
+    DOI: 10.1145/2858036.2858459
+    - Applied the Japanese philosophy of wabi-sabi (impermanence, incompleteness, imperfection) as design values. Complements material speculation's temporal engagement with artifacts through aesthetic appreciation of aging and decay.
+
+35. **Tsaknaki, V., Cotton, K., Karpashevich, P., & Sanches, P. (2021). "Feeling the Sensor Feeling You": A Soma Design Exploration on Sensing Non-Habitual Breathing.** *Proceedings of CHI '21*.
+    DOI: 10.1145/3411764.3445628
+    - Soma design exploration using material-bodily engagement with sensing technology. Connects material speculation with somaesthetic design through material-experiential inquiry.
+
+36. **Vallgårda, A., Boer, L., Tsaknaki, V., & Svanæs, D. (2017). Material Programming.** *ACM Interactions*, 24(3), 36–41.
+    DOI: 10.1145/3058953
+    - Proposed material programming as a design practice for computational composites — programming through material manipulation rather than code. Extends material speculation's material focus into computational crafting.
+
+### Heather Wiltse — Fluid Assemblages & Design Philosophy
+
+37. **Wiltse, H. (2020). Introduction: Relating to Things That Relate to Us.** In H. Wiltse (Ed.), *Relating to Things*, 1–12. Bloomsbury.
+    ISBN: 978-1-350-12425-7
+    - Framing essay articulating how contemporary things actively relate to us and each other, making the case for why design must attend to these relational dynamics.
+
+38. **Wiltse, H., & Redström, J. (2020). Revealing Relations of Fluid Assemblages.** In H. Wiltse (Ed.), *Relating to Things*, 239–255. Bloomsbury.
+    ISBN: 978-1-350-12425-7
+    - Demonstrated how fluid assemblages reveal hidden relations between users, platforms, and data economies. Provides critical lens for material speculation's engagement with networked, dynamic artifacts.
+
+39. **Özçetin, S., & Wiltse, H. (2025). Terms of Entanglement: A Posthumanist Reading of Terms of Service.** *Human–Computer Interaction*, 40(1-4), 171–194.
+    DOI: 10.1080/07370024.2023.2276249
+    - Posthumanist analysis of Terms of Service as material-discursive entanglements. Extends fluid assemblages concept into governance and platform relations.
+
+40. **Hauser, S., Redström, J., & Wiltse, H. (2021). The Widening Rift Between Aesthetics and Ethics in the Design of Things.** *AI & Society*, 36, 933–940.
+    DOI: 10.1007/s00146-020-01087-8
+    - Identified growing disconnect between aesthetic and ethical considerations in thing design. Provides critical framework for material speculation's engagement with values.
+
+### Ron Wakkary — Recent Extensions
+
+41. **Wakkary, R., Oogjes, D., Tomico, O., Sakib, N., & Kökel, E. (2025). Backyard Practices: A Liminal Approach to Designing in More-than-Human Worlds.** *Proceedings of CHI '25*.
+    - Extended material speculation through "backyard practices" — liminal design approaches that occupy thresholds between human and more-than-human worlds.
+
+42. **Zhong, C., Wakkary, R., Chen, A.Y.S., & Oogjes, D. (2023). deformTable: A Design Inquiry and Long-Term Field Study into Creative and Contingent Appropriations of a Shape-Changing Artifact.** *International Journal of Design*, 17(1).
+    URL: http://www.ijdesign.org/index.php/IJDesign/article/view/4383
+    - Extended journal version of the deformTable study; long-term field study demonstrating how counterfactual artifacts are creatively appropriated over time.
+
 ---
 
 ## Connections to Other Lineages
