@@ -2,13 +2,35 @@
 
 ## Overview
 
-This document maps the genealogical relationships between design research methodologies, informed by the Design Research Observatory's 21-concept taxonomy, exhaustive literature searching (500+ papers across 22 literature files), and person-based deep research on key researchers in each lineage. The genealogy spans from 1970s Scandinavian PD through to the posthuman/multispecies turn of the 2020s, covering **20+ interconnected lineages** organized into epistemological, methodological, speculative, participatory, observational, temporal, practice-based, and contextual layers.
+This document maps the genealogical relationships between design research methodologies, informed by the Design Research Observatory's 21-concept taxonomy, exhaustive literature searching (600+ papers across 25 literature files), and person-based deep research on key researchers in each lineage. The genealogy spans from the 1962 Design Methods Movement through to the posthuman/multispecies turn of the 2020s, covering **25+ interconnected lineages** organized into pre-history, epistemological, methodological, meta-methodological, speculative, participatory, observational, temporal, practice-based, and contextual layers.
 
-**Key changes from v2:** v3 adds two major new lineages — **Artist-led / Performance-led Research** (Benford, Gaver showroom, Höök soma design) and **Infrastructural Speculation** (Wong) — and integrates practice-based research epistemology as a second epistemological foundation alongside constructionism. The total literature base has expanded from ~200 to 500+ papers.
+**Key changes in v3.2:** Adds three new lineages — **Design Methods Movement** (1960s pre-history: Jones, Alexander, Archer, Simon, Rittel, Schön, Cross), **First-Person Methods** (autoethnography, autobiographical design), and **Intermediate-Level Knowledge** (annotated portfolios, strong concepts, bridging concepts, research products). Also expanded PD to 56 papers with 6 theoretical turns, and added experiential futures / speculative enactments. Total literature base: 600+ papers across 25 files.
 
 ---
 
 ## Structural Layers
+
+### Layer 0: Pre-History — The Design Methods Movement (1960s–1990s)
+
+*NEW in v3.2. The deep root of all design research.*
+
+**First Generation: Systematic Methods** (1962 Conference → Jones 1970 → Alexander 1964 → Simon 1969)
+- 1962 Conference on Design Methods (London): Jones, Archer, Rittel. The founding event.
+- Jones (1970) *Design Methods*; Alexander (1964) *Notes on the Synthesis of Form*; Simon (1969) *Sciences of the Artificial*
+- Program: make design systematic, scientific, optimizable
+
+**The Backlash** (1971–1983)
+- Alexander (1971) and Jones (1977) reject their own movement
+- Rittel & Webber (1973) "wicked problems" — design problems resist systematic solution
+- Schön (1983) *The Reflective Practitioner* — professionals learn by doing, not by following methods
+
+**Design as Discipline** (1982–2001)
+- Cross (1982, 2001) "designerly ways of knowing" — design is a third culture (not science, not humanities)
+- Buchanan (1992) "Wicked Problems in Design Thinking" — four orders of design
+- Frayling (1993) research into/through/for design — the taxonomy that launches RtD
+- DRS (founded 1976), *Design Studies* (1979), *Design Issues* (1984) as institutional infrastructure
+
+**The key dialectic:** Systematic methods (Simon) → wicked problems / reflective practice (Rittel, Schön) → design as its own discipline (Cross, Frayling) → everything in our genealogy follows from this synthesis.
 
 ### Layer 1: Epistemological Foundations
 
@@ -35,6 +57,47 @@ This document maps the genealogical relationships between design research method
 **Prototyping as Research** (Houde & Hill 1997 → Buchenau & Suri 2000 → Lim et al. 2008)
 - The material practice through which RtD produces knowledge
 - Ratto (2011) "critical making" extends prototyping into critical inquiry
+
+### Layer 2b: Meta-Methodological — Intermediate-Level Knowledge
+
+*NEW in v3.2. What kind of knowledge does RtD produce?*
+
+**Annotated Portfolios** (Gaver & Bowers 2012; Löwgren 2013)
+- Collections of design examples with annotations drawing out themes. Knowledge through *comparison across designs*.
+- Gaver (2012) "What Should We Expect from RtD?" — argues against convergence; design's value is proliferating new realities
+
+**Strong Concepts** (Höök & Löwgren 2012)
+- Design elements abstracted beyond particular instances with generative potential for new situations
+- Examples: "seamfulness," "social navigation," "feed"
+- The most cited intermediate-level knowledge form
+
+**Bridging Concepts** (Dalsgaard & Dindler CHI 2014)
+- Concepts that translate from theory *into* practice. Complementary to strong concepts (which abstract *from* practice).
+
+**Research Products** (Odom et al. 2016)
+- Designed artifacts deployed in real homes for extended periods. The product *is* the knowledge contribution.
+- Bridges prototyping, autoethnographic RtD, and material speculation
+
+**Ultimate Particulars** (Stolterman 2008)
+- Counter-position: design knowledge is fundamentally about *this* specific situated judgment. Resists abstraction.
+
+**The Core Tension:** Convergence (strong concepts, standardization) vs. Divergence (ultimate particulars, celebration of the particular). This tension recapitulates Simon vs. Schön from the design methods movement.
+
+### Layer 2c: First-Person Methods
+
+*NEW in v3.2. Designer-as-subject research.*
+
+**Autobiographical Design** (Neustaedter & Sengers 2012)
+- Designer creates technology for genuine personal use over extended time. Generates "detailed, nuanced, experiential understanding of a design space."
+- Desjardins & Ball (2018): tensions in autobiographical design (intimacy vs. publishability, personal vs. generalizable)
+
+**Autoethnography in HCI** (O'Kane et al. 2014; Lucero 2018; CHI 2024 systematic review)
+- Researcher's lived experience as data. Adapts social science autoethnography for design contexts.
+- Homewood et al. (2020): "removal as method" — removing technology to surface hidden dependencies
+
+**Autoethnographic RtD** (Desjardins & Wakkary 2016; Tomico et al. 2012)
+- Combines autoethnography *with* RtD: make → deploy in own life → live with → reflect
+- Connects to soma design (Tsaknaki et al. 2019): first-person somatic exploration as design method
 - Rosner (2018) craft + computation as research
 
 **Prototyping → Provotypes** (Mogensen 1992 → Boer & Donovan 2012)
@@ -344,8 +407,18 @@ This document maps the genealogical relationships between design research method
 
 ## Temporal Phases (v3)
 
+### Phase -1: The Design Methods Movement (1962–1983)
+- 1962 Conference on Design Methods (Jones, Archer, London)
+- Alexander (1964) Notes on the Synthesis of Form
+- Simon (1969) Sciences of the Artificial
+- Jones (1970) Design Methods
+- Alexander (1971) rejects his own work; Jones (1977) turns to intuition
+- Rittel & Webber (1973) wicked problems
+- DRS founded (1976); *Design Studies* launched (1979)
+- Schön (1983) The Reflective Practitioner
+
 ### Phase 0: Deep Roots (1970s–1982)
-- Scandinavian PD movement (workplace democracy)
+- Scandinavian PD movement (workplace democracy); NJMF (1970–73), DEMOS, DUE, UTOPIA (1981–85)
 - Papert's Constructionism (1980) — making as knowing
 - Cross (1982) "designerly ways of knowing"
 - Futures studies (Dator, Bell, Slaughter)
@@ -382,31 +455,38 @@ This document maps the genealogical relationships between design research method
 - Benford & Giannachi (2009) From Interaction to Trajectories
 
 ### Phase 3: Diversification (2010–2016)
+- Stolterman (2008) the "ultimate particular" — *design knowledge is particular*
 - Candy (2010) experiential futures
 - Bardzell (2010) feminist HCI
 - Ratto (2011) critical making
 - Koskinen et al. (2011) constructive design research — *lab/field/showroom*
 - Benford & Giannachi (2011) Performing Mixed Reality (MIT Press)
 - Gaver & Bowers (2012) annotated portfolios
-- Höök & Löwgren (2012) strong concepts
+- Höök & Löwgren (2012) strong concepts — *intermediate-level knowledge*
+- Gaver & Bowers (2012) annotated portfolios — *intermediate-level knowledge*
+- Neustaedter & Sengers (2012) autobiographical design — *first-person methods*
+- Tomico et al. (2012) first-person wearable RtD — *first-person methods*
 - Benford et al. (2012) Uncomfortable Interactions — *CHI Best Paper*
 - Borgdorff (2012) The Conflict of the Faculties
 - DiSalvo (2012) adversarial design
 - Nelson (2013) Practice as Research in the Arts
 - Benford et al. (2013) Performance-Led Research in the Wild
 - Dunne & Raby (2013) Speculative Everything
+- Dalsgaard & Dindler (2014) bridging concepts — *intermediate-level knowledge*
 - Lindley et al. (2014) anticipatory ethnography
 - Prado & Oliveira (2014) decolonizing critique of SCD
 - Irwin (2015) transition design
 - Wakkary et al. (2015) material speculation
 - Giaccardi et al. (2016) thing ethnography
-- Odom et al. (2016) research products
+- Desjardins & Wakkary (2016) autoethnographic RtD — *first-person methods*
+- Odom et al. (2016) research products — *intermediate-level knowledge*
 
 ### Phase 4: Posthuman / Multispecies Turn (2017–present)
 - Forlano (2017) posthumanism and design
 - Coulton & Lindley (2017) design fiction as world building
 - Höök et al. (2017) soma-based design theory
-- Redström (2017) making design theory
+- Redström (2017) making design theory — *programmatic design research*
+- Desjardins & Ball (2018) tensions in autobiographical design — *first-person methods*
 - Malpass (2017) critical design in context
 - Elsden et al. (2017) speculative enactments
 - Escobar (2018) designs for the pluriverse
@@ -431,11 +511,14 @@ This document maps the genealogical relationships between design research method
 
 ## What v3 Adds Over v2
 
-### New Lineages (3 + 1 expanded)
+### New Lineages (6 + 1 expanded)
 1. **Artist-led / Performance-led Research** (46 papers) — Benford, Gaver showroom, Höök soma
 2. **Infrastructural Speculation** (24 papers) — Wong, policy-oriented speculative design
 3. **Experiential Futures / Speculative Enactments** (15 papers) — Candy, Elsden, bridging foresight and HCI
-4. **Design Futuring** expanded to exhaustive corpus (120 papers) — reconstructing Celik & Kaya
+4. **Design Methods Movement** (21 papers) — the 1962–2001 pre-history: Jones, Alexander, Archer, Simon, Rittel, Schön, Cross, Buchanan, Frayling
+5. **First-Person Methods / Autoethnography** (14 papers) — Neustaedter, Desjardins, Lucero, Homewood
+6. **Intermediate-Level Knowledge** (16 papers) — annotated portfolios, strong concepts, bridging concepts, research products, ultimate particulars
+7. **Design Futuring** expanded to exhaustive corpus (120 papers) — reconstructing Celik & Kaya
 
 ### New Structural Elements
 1. **Practice-Based Research Epistemology** as second epistemological foundation (Layer 1)
@@ -444,8 +527,8 @@ This document maps the genealogical relationships between design research method
 4. **Quality of Speculation** as a cross-cutting lens alongside Feminist HCI and Design Justice
 
 ### Total Literature Base
-- **22 literature files** covering all lineages
-- **500+ unique papers** with full citations
+- **25 literature files** covering all lineages
+- **600+ unique papers** with full citations
 - **Key researchers mapped** for each lineage with person-based deep searching
 - **Connections documented** between every pair of lineages
 
@@ -469,4 +552,4 @@ This document maps the genealogical relationships between design research method
 
 ---
 
-*Draft v3 prepared April 21, 2026. Informed by the Design Research Observatory, exhaustive literature searching across 22 literature files (500+ papers), and person-based deep research. For CHI 2027 submission (deadline: 2026-09-12).*
+*Draft v3.2 prepared April 21, 2026. Informed by the Design Research Observatory, DRS lineage, exhaustive literature searching across 25 literature files (600+ papers), and person-based deep research. For CHI 2027 submission (deadline: 2026-09-12).*
