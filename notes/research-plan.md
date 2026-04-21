@@ -15,7 +15,7 @@ Design Research Genealogy: A Systematic Scoping Review of Methodologies and Work
 
 ## Method: PRISMA-ScR Scoping Review
 
-We follow the PRISMA-ScR guidelines (Tricco et al., 2018) and the Arksey & O'Malley (2005) / Levac et al. (2010) framework for scoping reviews.
+We follow the PRISMA-ScR guidelines (Tricco et al., 2018; DOI: 10.7326/M18-0850) and the Arksey & O'Malley (2005; DOI: 10.1080/1364557032000119616) / Levac et al. (2010; DOI: 10.1186/1748-5908-5-69) framework for scoping reviews.
 
 ### Stage 1: Identifying the Research Question
 - See RQ1–RQ3 above.
@@ -112,16 +112,16 @@ Context filter: ("HCI" OR "human-computer interaction" OR "interaction design" O
 
 Based on our literature review, we identify the following major lineages:
 
-1. **Research through Design (RtD)** — Frayling (1993) → Zimmerman et al. (2007) → Gaver (2012) → annotated portfolios, strong concepts
-2. **Speculative & Critical Design** — Dunne (1999) → Dunne & Raby (2013) → branches into design fiction, adversarial design, critical making
-3. **Design Fiction** — Sterling (2005) → Bleecker (2009) → Lindley & Coulton (2015+)
-4. **Participatory Design** — Ehn (1988) → Sanders & Stappers (2008) → design justice, infrastructuring
-5. **More-than-Human Design** — Haraway/Barad (theory) → Forlano (2017) → Wakkary (2021) → Giaccardi & Redström (2020)
-6. **Transition Design** — Irwin (2015) → sustainability transitions, systemic design
-7. **Design Futures / Experiential Futures** — Dator → Candy (2010) → experiential scenarios
-8. **Feminist HCI** — Bardzell (2010) → intersects with critical design, PD, more-than-human
-9. **Constructive Design Research** — Koskinen et al. (2011) — lab/field/showroom taxonomy
-10. **Ontological Design** — Willis (2006) → Fry (2009) → design futuring/defuturing
+1. **Research through Design (RtD)** — Frayling (1993) → Zimmerman et al. (2007; DOI: 10.1145/1240624.1240704) → Gaver & Bowers (2012; DOI: 10.1145/2212877.2212889) → annotated portfolios, strong concepts (Höök & Löwgren 2012; DOI: 10.1145/2362364.2362371)
+2. **Speculative & Critical Design** — Dunne (1999; ISBN: 978-0262541992) → Dunne & Raby (2013; ISBN: 978-0262019842) → branches into design fiction, adversarial design (DiSalvo 2012; ISBN: 978-0262017381), critical making (Ratto 2011; DOI: 10.1080/01972243.2011.583819)
+3. **Design Fiction** — Sterling (2005; ISBN: 978-0262693264) → Bleecker (2009) → Lindley & Coulton (2015; DOI: 10.1145/2783446.2783592)
+4. **Participatory Design** — Ehn (1988; DOI: 10.1201/9780203743461) → Sanders & Stappers (2008; DOI: 10.1080/15710880701875068) → design justice (Costanza-Chock 2020; DOI: 10.7551/mitpress/12255.001.0001), infrastructuring
+5. **More-than-Human Design** — Haraway/Barad (theory) → Forlano (2017; DOI: 10.1016/j.sheji.2017.08.001) → Wakkary (2021; ISBN: 978-0262542999) → Giaccardi & Redström (2020; DOI: 10.1162/desi_a_00612)
+6. **Transition Design** — Irwin (2015; DOI: 10.1080/17547075.2015.1051829) → sustainability transitions, systemic design
+7. **Design Futures / Experiential Futures** — Dator → Candy (2010; DOI: 10.13140/RG.2.1.1840.0248) → experiential scenarios
+8. **Feminist HCI** — Bardzell (2010; DOI: 10.1145/1753326.1753521) → intersects with critical design, PD, more-than-human
+9. **Constructive Design Research** — Koskinen et al. (2011; DOI: 10.1016/C2010-0-65896-2) — lab/field/showroom taxonomy
+10. **Ontological Design** — Willis (2006; DOI: 10.2752/144871306X13966268131514) → Fry (2009; ISBN: 978-1847882172) → design futuring/defuturing
 
 ---
 
