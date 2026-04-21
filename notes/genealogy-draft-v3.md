@@ -84,6 +84,14 @@ This document maps the genealogical relationships between design research method
 - Branching point circa 2018-2020: speculative design meets infrastructure/values studies
 - Key researchers: Wong, Khovanskaya, Fox, Merrill, Sengers, Pierce, Mulligan
 
+**Foresight + Speculative Design → Experiential Futures / Speculative Enactments**
+- *NEW in v3.1.* Two converging strands that make speculation *lived* — situations for inhabiting, not artifacts for contemplating
+- **Strand 1: Experiential Futures** (Candy 2010, from professional foresight): immersive scenarios, embodied encounters. Candy's Experiential Futures Ladder: Setting → Scenario → Situation → Stuff. The Thing From The Future card game (Candy & Watson 2015).
+- **Strand 2: Speculative Enactments** (Elsden et al. CHI 2017, from HCI): participants seriously invest in speculative scenarios, generating empirical data about how people would behave with imagined technologies.
+- Resolves a key critique of speculative design: gallery provocations produce aesthetic responses, not actionable insights about lived experience
+- Research Products (Odom et al. 2016) extend enactments temporally — living with speculation for weeks rather than enacting it for hours
+- Key researchers: Candy (Parsons), Dunagan (IFTF), Watson (USC), Elsden (Edinburgh), Kirk (Northumbria), Durrant (Northumbria)
+
 ### Layer 4: Participatory Branch
 
 **Participatory Design (PD)** (Scandinavian 1970s → Ehn 1988 → Schuler & Namioka 1993)
@@ -246,6 +254,10 @@ This document maps the genealogical relationships between design research method
     │  │
     │  └── Afrofuturism (Dery '93, Harrington '22)
     │
+    ├── Experiential Futures (Candy '10) ◄── Foresight [NEW]
+    │     └── Speculative Enactments (Elsden '17)
+    │           └── Research Products (Odom '16)
+    │
     ├── Design Fiction (Sterling '05)
     │     ├── World Building (Coulton '17)
     │     └── Anticipatory Eth. (Lindley '14) ◄── Ethnography
@@ -382,10 +394,11 @@ This document maps the genealogical relationships between design research method
 
 ## What v3 Adds Over v2
 
-### New Lineages (2 + 1 expanded)
+### New Lineages (3 + 1 expanded)
 1. **Artist-led / Performance-led Research** (46 papers) — Benford, Gaver showroom, Höök soma
 2. **Infrastructural Speculation** (24 papers) — Wong, policy-oriented speculative design
-3. **Design Futuring** expanded to exhaustive corpus (120 papers) — reconstructing Celik & Kaya
+3. **Experiential Futures / Speculative Enactments** (15 papers) — Candy, Elsden, bridging foresight and HCI
+4. **Design Futuring** expanded to exhaustive corpus (120 papers) — reconstructing Celik & Kaya
 
 ### New Structural Elements
 1. **Practice-Based Research Epistemology** as second epistemological foundation (Layer 1)
