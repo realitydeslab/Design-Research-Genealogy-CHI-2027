@@ -164,7 +164,17 @@ This document maps the genealogical relationships between design research method
 - Related strand: games/LARP as design research contexts
 - Johansson et al. (2024) "Why Larp?" — synthesis of LARP × HCI
 
-### Layer 8: Contextual Layer (Paradigms)
+### Layer 8: Counter-Movements
+
+**Unmaking** (Jackson 2014 → Song & Paulos 2021 → Lindström & Ståhl 2020 → Song et al. 2025)
+- *NEW in v3.1.* Counter-movement challenging design research's foundational orientation toward making/creation
+- Three strands: (1) repair/broken world thinking (Jackson), (2) material unmaking — biodegradation, decay, deformation (Song & Paulos), (3) un/making as political practice (Lindström & Ståhl)
+- Blevis (2007) "Sustainable Interaction Design" is the precursor — first systematic treatment of disposal/end-of-life
+- Song et al. (2025) TOCHI synthesis: maps techniques, technologies, materials, and philosophies beyond making
+- **Epistemological challenge:** If making = knowing (constructionism), what kind of knowledge does unmaking produce?
+- Connects to: more-than-human design (things decay), slow technology (temporal), design futuring (defuturing), PD (participatory unmaking), decolonial design (unmaking progress narratives)
+
+### Layer 9: Contextual Layer (Paradigms)
 
 **Human-Centered Design (HCD)** (Norman 1988 → ISO 9241)
 - The dominant paradigm; the origin point the posthuman turn responds to
