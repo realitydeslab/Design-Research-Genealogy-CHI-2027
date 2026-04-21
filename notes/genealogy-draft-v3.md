@@ -94,14 +94,44 @@ This document maps the genealogical relationships between design research method
 
 ### Layer 4: Participatory Branch
 
-**Participatory Design (PD)** (Scandinavian 1970s → Ehn 1988 → Schuler & Namioka 1993)
-- Parallel trunk, not a branch of RtD — predates Frayling
-- Democratic participation as design principle
+**Participatory Design (PD)** (Nygaard 1970s → Ehn 1988 → Schuler & Namioka 1993)
+- Parallel trunk, not a branch of RtD — predates Frayling by two decades
+- Originated in Norwegian workplace democracy (NJMF project 1970–73); key projects: DEMOS, DUE, UTOPIA (1981–85)
+- Founding figures: Nygaard, Ehn, Bødker, Kyng (Aarhus/Malmö)
 - Cultural probes (Gaver, Dunne & Pacenti 1999) bridge PD and RtD
 
 **PD ↔ Co-Design** (Sanders & Stappers 2008)
 - Bidirectional relationship; sometimes interchangeable
 - Co-design expands PD beyond Scandinavian workplace tradition
+
+**PD → Design Things / Agonistic PD** (Ehn 2008 → Björgvinsson et al. 2012 → DiSalvo 2012)
+- *Expanded in v3.1.* The agonistic turn: from consensus to productive conflict (Mouffe)
+- Ehn (2008) reconceived PD through "design things" (assemblies of humans and nonhumans)
+- Björgvinsson, Ehn & Hillgren (2012): agonistic PD with marginalized social movements; Malmö Living Labs
+- DiSalvo (2012) Adversarial Design: design as democratic contestation
+
+**PD → Infrastructuring** (Le Dantec & DiSalvo 2013 → Bødker et al. 2017 → Karasti et al. 2018)
+- *Expanded in v3.1.* PD as ongoing relational practice, not bounded projects
+- "Tying knots" = creating durable connections between activities and institutions
+- Connects to Star & Bowker's STS infrastructure studies
+
+**PD → Power/Decision-Making** (Bratteteig & Wagner 2012/2014)
+- *Expanded in v3.1.* Makes power explicit: who decides what, and how?
+- Framework: big/small decisions, internal/external, decisions/non-decisions
+
+**PD → Design Justice** (Costanza-Chock 2020; Harrington et al. 2019)
+- From democratic participation to centering marginalized communities' leadership
+- Harrington: equity-focused PD with Black communities
+
+**PD → More-than-Human PD** (Akama et al. 2020 → Heitlinger et al. 2024)
+- *NEW in v3.1.* Expanding "who participates" beyond humans
+- Rivers, soils, animals, sensors as stakeholders — not metaphorically
+- Lindström & Ståhl: un/making as more-than-human participatory practice
+
+**PD → Participatory AI** (Delgado et al. 2023; Birhane et al. 2022; Sloane et al. 2020)
+- *NEW in v3.1.* The "participatory turn" in AI design
+- Most projects operate in consultative mode, not genuine co-ownership (Delgado et al.)
+- Sloane et al.: "Participation is not a design fix for machine learning" — structural critique
 
 ### Layer 5: Observational Branch
 
@@ -282,18 +312,25 @@ This document maps the genealogical relationships between design research method
     │    └────────────┘
     │
     PARTICIPATORY BRANCH
-    ┌──────────────┐
-    │Scandinavian PD│───────────────── parallel trunk
-    │ (1970s)       │
-    │     │         │
-    │     ▼         │
-    │ Co-Design     │
-    │(Sanders '08)  │
-    │     │         │
-    │     ▼         │
-    │Design Justice │
-    │(C-Chock 2020) │
-    └──────────────┘
+    ┌──────────────────────────────────────────┐
+    │Scandinavian PD (Nygaard 1970s)           │── parallel trunk
+    │  │                                        │
+    │  ├── Co-Design (Sanders '08)              │
+    │  │                                        │
+    │  ├── Agonistic PD (Ehn '08,               │
+    │  │   Björgvinsson '12, DiSalvo '12) [NEW] │
+    │  │                                        │
+    │  ├── Infrastructuring (Le Dantec '13,     │
+    │  │   Bødker '17, Karasti '18)       [NEW] │
+    │  │                                        │
+    │  ├── Design Justice (C-Chock 2020)        │
+    │  │                                        │
+    │  ├── More-than-Human PD               [NEW]│
+    │  │   (Akama '20, Heitlinger '24)          │
+    │  │                                        │
+    │  └── Participatory AI                 [NEW]│
+    │      (Delgado '23, Birhane '22)           │
+    └──────────────────────────────────────────┘
 
     CROSS-CUTTING LENSES
     ════════════════════
